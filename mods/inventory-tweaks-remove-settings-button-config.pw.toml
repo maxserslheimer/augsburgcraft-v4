@@ -1,6 +1,6 @@
 name = "Inventory Tweaks Remove Settings Button Config"
 filename = "InventoryTweaks-1.64+dev.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
