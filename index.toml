@@ -2809,11 +2809,6 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "mods/.index/custom-main-menu.pw.toml"
-hash = "e596ef9c62a6a064eac0024579c621335e8ef6b3598b01d760cfc641abd1963d"
-metafile = true
-
-[[files]]
 file = "mods/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
 hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
 
