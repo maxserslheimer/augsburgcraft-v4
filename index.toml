@@ -2809,16 +2809,8 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "mods/Decocraft-2.6.3.7_1.12.2.jar"
-hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
-
-[[files]]
 file = "mods/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
 hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
-
-[[files]]
-file = "mods/PTRLib-1.0.5.jar"
-hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 
 [[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
@@ -2853,6 +2845,11 @@ metafile = true
 [[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/better-records-fixed.pw.toml"
+hash = "18ec60e740e166585927dc544255b2da90413c8c61de44d0848bb0c63f474a82"
 metafile = true
 
 [[files]]
@@ -2953,6 +2950,11 @@ metafile = true
 [[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "35a97513c02a3a99af47d03910e461f240d935963edea0faa72631d3d33c7a42"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
 metafile = true
 
 [[files]]
@@ -3155,6 +3157,11 @@ hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
 metafile = true
 
 [[files]]
+file = "mods/ptrlib.pw.toml"
+hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
+metafile = true
+
+[[files]]
 file = "mods/reach-fix.pw.toml"
 hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
 metafile = true
@@ -3285,10 +3292,6 @@ hash = "1181b8fc69efd05139a83490470bc9165faf02e8affc8a903601bde175dc25f7"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "8f0bf0f5684d1d14bd812f230c722fde1a410b50f3f14b66a04d8225d2f8eaed"
-
-[[files]]
 file = "resources/minecraft/textures/mainmenu/minecraft_logo.png"
 hash = "ba03a415633b0ea1bb629b76aaecee9113ad2d8d2e9699938a0872d1ff438ec4"
 
@@ -3319,7 +3322,3 @@ hash = "a65c8ceaea3ded1158cdef49f774b5600859a06c3193941e98345af7f63cb0db"
 [[files]]
 file = "scripts/crafting.zs"
 hash = "9c5af68b9f65ed6afa73cd9c927b1b5333768babcb97fc3c0276d7daa9df45c8"
-
-[[files]]
-file = "servers.dat"
-hash = "eba4ee4ff85640f292ccbbd0123a45f5dc5f6ec84e851ebe26b5940c91f955d6"
