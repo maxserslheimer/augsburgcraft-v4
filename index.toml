@@ -2809,8 +2809,12 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "mods/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
+file = "mods/AUX Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
 hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
+
+[[files]]
+file = "mods/AUX hanfmod-1.12.2-2.3.3.jar"
+hash = "bd28e43099e81501a7b3d7644cd499fbabdc9a2370404c0a8067b33e5a679f51"
 
 [[files]]
 file = "mods/additional-pipes-for-buildcraft.pw.toml"
@@ -3011,10 +3015,6 @@ metafile = true
 file = "mods/hammer-lib.pw.toml"
 hash = "8b263c3b1b0f83ac1984a84c9be17e40e092cb072aed146d20efae2b7f191c06"
 metafile = true
-
-[[files]]
-file = "mods/hanfmod-1.12.2-2.3.3.jar"
-hash = "bd28e43099e81501a7b3d7644cd499fbabdc9a2370404c0a8067b33e5a679f51"
 
 [[files]]
 file = "mods/ic2-classic.pw.toml"
