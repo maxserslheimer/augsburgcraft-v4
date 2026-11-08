@@ -1,0 +1,13 @@
+name = "Had Enough Items"
+filename = "HadEnoughItems_1.12.2-4.36.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a5f1db0368a44f886561bf3855f8eeaf0e5cd81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9167450
+project-id = 557549

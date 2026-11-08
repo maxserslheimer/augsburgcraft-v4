@@ -1,0 +1,13 @@
+name = "XaeroLib"
+filename = "xaerolib-forge-1.12.2-1.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ffde7b1d0a47c64d8f68e21cb25d680f1ea8d27"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8849823
+project-id = 1417462

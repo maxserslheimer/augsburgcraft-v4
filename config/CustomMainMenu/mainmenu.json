@@ -1,0 +1,166 @@
+{
+	"images": {
+		"title": {
+			"image": "minecraft:textures/mainmenu/minecraft_logo.png",
+			"posX": -144,
+			"posY": 0,
+			"width": 288,
+			"height": 171,
+			"imageWidth": 1800,
+			"imageHeight": 1070,
+			"alignment": "top_center"
+		}
+	},
+	"buttons": {
+		"replay": {
+			"text": "replaymod.gui.replayviewer",
+			"texture": "minecraft:textures/mainmenu/btn.png",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_left",
+			"textOffsetX": -47,
+			"posX": 10,
+			"posY": -160,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"pressSound": "minecraft:textures/mainmenu/blank.ogg",
+			"wrappedButton": 17890234
+		},
+		"singleplayer": {
+			"text": "menu.singleplayer",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_left",
+			"textOffsetX": -50,
+			"posX": 10,
+			"posY": -140,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "singleplayer"
+			}
+		},
+		"multiplayer": {
+			"text": "menu.multiplayer",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_left",
+			"textOffsetX": -54,
+			"posX": 10,
+			"posY": -120,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "multiplayer"
+			}
+		},
+		"options": {
+			"text": "menu.options",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_left",
+			"textOffsetX": -60,
+			"posX": 10,
+			"posY": -80,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "options"
+			}
+		},
+		"quit": {
+			"text": "Quit Game",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_left",
+			"textOffsetX": -58,
+			"posX": 10,
+			"posY": -60,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"pressSound": "minecraft:textures/mainmenu/blank.ogg",
+			"action": {
+				"type": "quit"
+			}
+		},
+		"mods": {
+			"text": "Loaded Mods",
+			"textOffsetX": 50,
+			"texture": "minecraft:textures/mainmenu/btn.png",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_right",
+			"posX": -210,
+			"posY": -80,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "mods"
+			}
+		},
+		"languagebutton": {
+			"text": "Language...",
+			"texture": "minecraft:textures/mainmenu/btn.png",
+			"hoverTextColor": 15500800,
+			"alignment": "bottom_right",
+			"textOffsetX": 55,
+			"posX": -210,
+			"posY": -60,
+			"width": 200,
+			"height": 20,
+			"imageWidth": 200,
+			"imageHeight": 20,
+			"action": {
+				"type": "openGui",
+				"gui": "languages"
+			}
+		},
+		"modslabel": {
+			"text": "#modsactive# meth rauchbereit",
+			"width": 140,
+			"height": 8,
+			"posX": 1,
+			"posY": -10,
+			"normalTextColor": 16777215,
+			"hoverTextColor": 16777215,
+			"tooltip": "Running Forge #forgeversion#",
+			"pressSound": "minecraft:textures/mainmenu/blank.ogg",
+			"alignment": "bottom_left"
+		}
+	},
+	"labels": {
+		"mojang": {
+			"text": "Copyright HFC!",
+			"posX": -197,
+			"posY": -10,
+			"color": -1,
+			"alignment": "bottom_right"
+		},
+		"minecraft": {
+			"text": "AUGSBURGCRAFT v4.0 (illegale cracked Kopie)",
+			"posX": 1,
+			"posY": 2,
+			"color": -1,
+			"alignment": "top_left"
+		}
+	},
+	"other": {
+		"panorama": {
+			"images": "minecraft:textures/mainmenu/panoramas/panorama_%c.png",
+			"animate": true,
+			"animationSpeed": 1,
+			"blur": true,
+			"gradient": true
+		}
+	}
+}

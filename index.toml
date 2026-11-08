@@ -1,0 +1,3332 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
+hash = "d7858fb4964b0cc4aaea52142835d2632e320c86449a1afa82ff0285c52eb037"
+
+[[files]]
+file = "config/AppliedEnergistics2/CustomRecipes.cfg"
+hash = "042cd3769a9e9de58fa1cc25c22ac2119b852317ede31c3fe32ee5b443f88e4c"
+
+[[files]]
+file = "config/AppliedEnergistics2/Facades.cfg"
+hash = "c50bb6b5960ea48a025759c11082781f412d24e9a5be0db7d4d34948c7a7f0d4"
+
+[[files]]
+file = "config/AppliedEnergistics2/VersionChecker.cfg"
+hash = "874117969d0be229c563c98fe38c79995f3aa6b3040b4aadaaab0b4e9a7fcdc9"
+
+[[files]]
+file = "config/AppliedEnergistics2/items.csv"
+hash = "93d4c54b152aea582c8a7d1c7fd31b39dbacd372e82e235cd20d6d114576b5b5"
+
+[[files]]
+file = "config/CQR/configVersions.properties"
+hash = "b81c0faff56a672f037fe63de767de56962be091f80b3dc0b629214b566b8445"
+
+[[files]]
+file = "config/CQR/cqrepoured.cfg"
+hash = "af874dad5bbd44f4a11b486ab263f489aab72380d24423429c6a30c5454a62f9"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/BOARMAN.properties"
+hash = "d8ebcab13f01dc980f0c2beb36710d3bac3df9e036930149c3eb4257158a2c61"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/DWARF.properties"
+hash = "6968a3dabc14533da2da5a4068a948eafd891e05bea7d1abaa332dba66325659"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/ENDERMAN.properties"
+hash = "c64cea9b362c4a9073fabb56d0ee0d5e9a021ef869a993734f5358242f48d89e"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/GOLEM.properties"
+hash = "5f5c4505299a10608a607704b0577131f7d39398890f22239811f59aa9a93d81"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/GREMLIN.properties"
+hash = "8c7a123a8e4bd7d235bec4e2346feed81631ba1ee75fd9c16a5b7c5c07077ef1"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/ILLAGER.properties"
+hash = "b2959c9ae51cc149e50a2f04f3355fbc339d3a07304bd7cb3b404205e190442a"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/MANDRIL.properties"
+hash = "59308c488d461e3b5166d404bb4d86626c83fd2804345593d5860dd6a4df8892"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/MINOTAUR.properties"
+hash = "d62730f357bd51ffb421cba5ae484a355ed80d939f3103578c3c6e93ba79abb6"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/MUMMY.properties"
+hash = "6cd1f219973c3d1472d0ebb5edc23456b7a04cd245b1963dd3e131c153ca1ea3"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/OGRE.properties"
+hash = "d51fcd89c45c6c1be834b38a1f55dd5f1754c33aaac8358c8abefd96cdebbf6b"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/ORC.properties"
+hash = "669370a471c094abe46608721f5d5fd125f51a4054dbd09f086447f70e478a66"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/PIRATE.properties"
+hash = "beb8b2f10ad18f6a6933f3e5cd7f9a6b4985cc6cea85188f09cbb379a994d7b5"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/SKELETON.properties"
+hash = "dc98a1a80293f6ac073f5dca3bfb2b248d7fd02a55ecb97c44e41ee910619c81"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/SPECTER.properties"
+hash = "a0a39f7565c10d257d58b8c10694f51e2368d057a5fde38146fd467f28f89c5e"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/TAVERNFOLK.properties"
+hash = "9564816983bd6ec7ce111316852e32c8da06b5cef945243c40f192d847005d90"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/TRITON.properties"
+hash = "a7f19a53c9ddbcfb8a26ab0250b2f836e6b7793b9d69e241c2addf49a0ffd75b"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/WALKER.properties"
+hash = "35d619ae5e799b555be70a003803f8868980b88f183d5215965de15095a7bcf2"
+
+[[files]]
+file = "config/CQR/dungeon_inhabitants/ZOMBIE.properties"
+hash = "94ec1ab6fb6b36c77ad82328e4ca6954ed128e10d1ece1e0a39fe555aec05874"
+
+[[files]]
+file = "config/CQR/dungeons/Airship.properties"
+hash = "86a88dfa44d77be65b8c033813a858c236f849fe92d5fa2d950efa29dd67ac50"
+
+[[files]]
+file = "config/CQR/dungeons/Bwmmill.properties"
+hash = "0b95d03d677d9db87dd0e8d21a542a437b4494340c8d12dd36463932be4a188f"
+
+[[files]]
+file = "config/CQR/dungeons/Castle.properties"
+hash = "e9099caafe813ed76f5793e5e5113b7e7f7929100bdc041429436e5695becbaa"
+
+[[files]]
+file = "config/CQR/dungeons/CastleFloating.properties"
+hash = "20450a53cf50f6f0d2ee761480b1b9087246d4551b0c515b46ce538222a6b840"
+
+[[files]]
+file = "config/CQR/dungeons/CastleRuin.properties"
+hash = "5ef8c5b3e62ae461f4e45f43e9295d968545cb1b34f64cff8ef0f1bf4f26ca92"
+
+[[files]]
+file = "config/CQR/dungeons/CastleSnow.properties"
+hash = "e557b37fd14b213025c905873b430c7d67df09df07a93a549f77ee7883d0a5d8"
+
+[[files]]
+file = "config/CQR/dungeons/CastleSnowLarge.properties"
+hash = "26899db3a598f526e958500b3c968b29fd7fd5beb87666fde8082f77a39e6f7d"
+
+[[files]]
+file = "config/CQR/dungeons/Island.properties"
+hash = "5fe2efaf0a27521e57565101d8ce89a387422c7c6de9e02aeb8a859114f9fa94"
+
+[[files]]
+file = "config/CQR/dungeons/NetherCity.properties"
+hash = "674e39c53349b2dd5110c1e973cf786263f4fe4bcfd4e9cb249cb3a9b69525a8"
+
+[[files]]
+file = "config/CQR/dungeons/NetherCityFloating.properties"
+hash = "8299bf256ff978c209ae863960944ed2211774ca01a15c45a550b5210f2137f5"
+
+[[files]]
+file = "config/CQR/dungeons/NetherIsland.properties"
+hash = "51684ba4d183015b82b1bb35080aff470abdd66bb674f6c545a2e8c403a34cc6"
+
+[[files]]
+file = "config/CQR/dungeons/Outpost.properties"
+hash = "28142055e380ebf170f3903029312798878ca8fac39bf680c289a0c71ccf443b"
+
+[[files]]
+file = "config/CQR/dungeons/OutpostSnow.properties"
+hash = "59a4951cbbfacf079ab5a6ac91876b5c57b20585984d695b85f2a7c1ed73063a"
+
+[[files]]
+file = "config/CQR/dungeons/RandomizedCastle.properties"
+hash = "873e221a73aba4a85f5f46f729e4d8cd1ed556e4f67cf547c36896abef0e51f6"
+
+[[files]]
+file = "config/CQR/dungeons/RandomizedCastleSnow.properties"
+hash = "362ef477b75da43e128cf8b5f0decce71fc2c44f2b013b192e60840f91ebadcd"
+
+[[files]]
+file = "config/CQR/dungeons/ShipLarge.properties"
+hash = "7535a5b5c9f2f5accd2ed36b11820724a69e589a569b35bd5166fa5598149b38"
+
+[[files]]
+file = "config/CQR/dungeons/ShipSmall.properties"
+hash = "768ed3f3ab0c47bbb55a87f8c912592c690ef5aa8a66f027c25337352e7a505b"
+
+[[files]]
+file = "config/CQR/dungeons/StrongholdLinearDesert.properties"
+hash = "54374c286eabc60fa78a7821b100dc1119344ac4b29f60179e696fce2b835a7e"
+
+[[files]]
+file = "config/CQR/dungeons/StrongholdLinearSnow.properties"
+hash = "7a79c1d512605a94aade3f111fa6933bc2ef45253ba7e17aacef1c244ab7266e"
+
+[[files]]
+file = "config/CQR/dungeons/Taverns.properties"
+hash = "a72ec9d9168a07c51f5fad869ef95656ceb1e22f246c31146796dd2e498fbbaa"
+
+[[files]]
+file = "config/CQR/dungeons/Test.properties"
+hash = "8f1966b97585f20ae02993ff38f1b4049b384d6e8eda181307bb699611d36450"
+
+[[files]]
+file = "config/CQR/dungeons/TheFinalPlace.properties"
+hash = "9aa0cfe33663a2d246b7aabf6ea1c7b172c79c8ff061932be9b3443efc5d372a"
+
+[[files]]
+file = "config/CQR/dungeons/VegetatedCave.properties"
+hash = "931cee3375ba923ba259766f6734c3649bdfb5793b263004c8528008f43d4173"
+
+[[files]]
+file = "config/CQR/dungeons/Volcano.properties"
+hash = "32214c573dba7ec46df3076d00d90ef92936cf1a6d1ebd78e8c25c63e04373a6"
+
+[[files]]
+file = "config/CQR/dungeons/WizardryTower.properties"
+hash = "1ed67556be643e8b906e2aae048e8f489902ddd4b61c76f92a20ad7606324073"
+
+[[files]]
+file = "config/CQR/dungeons/botaniaisland.properties"
+hash = "36f57dc41dc7d927af4cf9f3a472f26e36fdedd3f3b303d86a8ce4d874a569c5"
+
+[[files]]
+file = "config/CQR/factions/Beasts.properties"
+hash = "ab5dc149363da90e862b9db9546a4de30a1470fac4e3745f48938de3e6a7539b"
+
+[[files]]
+file = "config/CQR/factions/Dragons.properties"
+hash = "d2c6a24aa3052e35ff040ed5bbf28193d8a1dbdcbcb89ada6ff62960daafe0da"
+
+[[files]]
+file = "config/CQR/factions/DwarvesAndGolems.properties"
+hash = "b01141b52b274c4a38568a1c8b09eab765c414447bec0d57673ce2bb95c6c4cf"
+
+[[files]]
+file = "config/CQR/factions/Endermen.properties"
+hash = "385f2b6c78c991e0aa435c9fb9570be2ac73a82bb7a9d2ffb2947082b38e2ba5"
+
+[[files]]
+file = "config/CQR/factions/Goblins.properties"
+hash = "46d7c2b75eeeb5f1d56d199f1abdc0a7113d3e33a4f5a7815744b51562d89d38"
+
+[[files]]
+file = "config/CQR/factions/Gremlins.properties"
+hash = "9fa0887cc02e6acbc06797198253c1d5d09821559331ca7cabb81a3e7ab5f2ad"
+
+[[files]]
+file = "config/CQR/factions/Illagers.properties"
+hash = "fcaf66884ffc1ea553d1bb7aebb0c457394a82308047e34c38bf3b785c757f03"
+
+[[files]]
+file = "config/CQR/factions/Inquisition.properties"
+hash = "056747e96eea19c9c911132a25426f088f5af937032bc67e8db96230c88028c1"
+
+[[files]]
+file = "config/CQR/factions/Pirate.properties"
+hash = "468061f08af8cc776e044aea83daeef59e0bc4e1e117de32e5989f24ae2658e4"
+
+[[files]]
+file = "config/CQR/factions/Tavernfolk.properties"
+hash = "0d6e0671d5a18c6fe00c0bd66eba2e5c12a4b7e8620dbd385d03d014e4a74d85"
+
+[[files]]
+file = "config/CQR/factions/Tritons.properties"
+hash = "625af5b2f57737f37bff4dcc611f80872e0cc95ccc296849dc5e419cea00c3a8"
+
+[[files]]
+file = "config/CQR/factions/Undead.properties"
+hash = "7bf5bef53a7ee7f64efd58320f88d9c369ac0f89d9f4b68c61e7f56ff2ce8b50"
+
+[[files]]
+file = "config/CQR/factions/Villagers.properties"
+hash = "a63ad2778ad08f2bd628f93c9a44907bf8148b7061616b06f4b4903e9a3ae776"
+
+[[files]]
+file = "config/CQR/factions/Walkers.properties"
+hash = "6bd22d3fa725c1575b0b9362fd6285ed3e5fa048ca9fc5ebcef622adaba9cecf"
+
+[[files]]
+file = "config/CQR/grids/default.properties"
+hash = "367d6aa98c88cfae392d17638a9faaa87e2aaa38c49b92f9f4b4232117b49f81"
+
+[[files]]
+file = "config/CQR/grids/huge.properties"
+hash = "77a5d632cbcbb6bdd74ddb5e9d89ed0c1489c6163860c34352bb01c6af09050c"
+
+[[files]]
+file = "config/CQR/grids/small.properties"
+hash = "b6fabf903bc703969df286aca6b35823b495896642f610d062deadd5006d9a3c"
+
+[[files]]
+file = "config/CQR/items/hookshot.properties"
+hash = "82f3c6f66f53d2e5b6b69f753092a7d4b8a96c8ed469862c1fa0a0f53b15d813"
+
+[[files]]
+file = "config/CQR/items/longshot.properties"
+hash = "82f3c6f66f53d2e5b6b69f753092a7d4b8a96c8ed469862c1fa0a0f53b15d813"
+
+[[files]]
+file = "config/CQR/items/spiderhook.properties"
+hash = "60df48e458f2c6f3ea217d003a7ab48a4018902db0e0fcfdbadd540b50337c1d"
+
+[[files]]
+file = "config/CQR/lootconfigs/chests/clutter.properties"
+hash = "d08c9d660fef383ac517807c86b6b0b98059aae445d53c229fbf9c54758c2365"
+
+[[files]]
+file = "config/CQR/lootconfigs/chests/equipment.properties"
+hash = "4f9280f0fde3603009407c71f394aeaf08416c1a115c2f3a85a7df8623655538"
+
+[[files]]
+file = "config/CQR/lootconfigs/chests/food.properties"
+hash = "9bebd42d0550d5fade42fa9c68ff297fd6c579541a71a7383ff54663076d6369"
+
+[[files]]
+file = "config/CQR/lootconfigs/chests/material.properties"
+hash = "16423a1e3d9ac3c7fb3bc50212e1575255f579695d5fc96e515927f09bcf1a9c"
+
+[[files]]
+file = "config/CQR/lootconfigs/chests/treasure.properties"
+hash = "98e64edef56d648adda87c2cbf967579bbf696db45141772248fe90886704684"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/boarman.json"
+hash = "c95c62a61d10a815b846f8ce00f123e475dcad7e99cfb4e99056e88e1dc4ab00"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/bosses/giant_turtle.json"
+hash = "893f4b4c4743effd873f66f6b0c12d1ccf9507b7431f3eb54c036b9bd4258152"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/bosses/lich.json"
+hash = "ce2155d4aa196734188f548523bc1759c01755a90d75bc6e2c964b23eebae620"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/bosses/necromancer.json"
+hash = "8967f73180dca06a2ebcea2419a9d1b9510b2c71cb2d81d438c70d01e5d7c8e1"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/bosses/walker_king.json"
+hash = "bde81adc7e8d6a255716660306d76dafb15941d44600640ae32b9b5cb4ab6f96"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/enderman.json"
+hash = "13b2535dda251690dee5fb75732694f8a74141cdb455c61348e4971644e36d5c"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/golem.json"
+hash = "43571b5abeb896fc209e98bbb49b1d7009a1b92963dfda246f2208dd2e28354c"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/gremlin.json"
+hash = "c2c3fdffb7cb0023198e8bcdb4994695ba6be58fe4867705cbcce489d0fe903c"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/mounts/endermite.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/mounts/silverfish.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/mummy.json"
+hash = "084d55caee2cdb248247de57417debb83b386e3611d39298987faeba3e593f06"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/skeleton.json"
+hash = "3ec199ca6317e147db7132a864dfc5fb7f7eebd6db2f7c25805fb08125ad0c81"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/triton.json"
+hash = "4df6e552b3b77472f010abd910e95cb2ef5fc918460cdcd4f9a686c294b35f39"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/walker.json"
+hash = "023d1876279430bda1f3cd3790d38d5e9df46f5e5c7729837737f2e9c294607a"
+
+[[files]]
+file = "config/CQR/lootconfigs/entities/zombie.json"
+hash = "5d98cd3ebe6b4854071befa8d95283e1a0c8533acda024f73311bc4200cba1b1"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/normal/Castle_Arena-v2.nbt"
+hash = "7c4f04519ce3bc5c723ac640339d8f9b102cd5ea2d4167e204a7030661e1135f"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/normal/Castle_Giant_Tree.nbt"
+hash = "5c45d79c93840aa8d8881a179a5d5b03615bed6fd3a80f50227d54ac09a10460"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/normal/Castle_Lake_Alpha.nbt"
+hash = "26e382b61eae32fb1f798b928f18f0b0a914fab288c8a39cc33b65839779d7a7"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/normal/Castle_NeaEkkleasia-v2.nbt"
+hash = "b5df26da67da6ed3f95b18c50f8328da69dea205596486a1ce6d74bb490daa20"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/normal/Castle_Ravine_v2.nbt"
+hash = "86b17d04b8f8fc9a1edde20789217b3f27c331d9b91eb235fbec548ba50dce93"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/normal/Kano's_Wizardscape-v3.nbt"
+hash = "b27424eedab69bf84f986e228cf149cb4bceeff0d502e425dd5d2eb824081b3c"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/snow/Castle_Snow_Cube_B.nbt"
+hash = "9ff3a34229d83c1fd9ae59c2134a60a07abc9af65fcda83350e85861473f5ee9"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/snow/Castle_Snow_Redstone.nbt"
+hash = "f1cea99d2a40850bdee84196c17f1bc09ac9f276bfd3a53842a3df29f333af85"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/castles/snow/UnnamedSnowCastle.nbt"
+hash = "45ef294db51ce1f2958a43bc9a2735a90f623552b2e9fb0a02053a327b7c305c"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/outposts/snow/walker_outpost_camp_v3.nbt"
+hash = "f5ef138d7533feffdf4efb9e2bd3f69e2ccc6331a28f02a46b9f925e150639dc"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Battle.nbt"
+hash = "aeacbf333ce1d5fcf22aaa84317d6343f29f15fc99f6e7c91ec875235337db86"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Oasis.nbt"
+hash = "aed2a091ee4d40615867de4727ba70f5b9c804c3af1ec0ce332caccd6201f22e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Puddle.nbt"
+hash = "56e288d0295589d51f1cb138d15bdd55b047ad9ecd7c68bc6895f07cdbfba75d"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Pyramid.nbt"
+hash = "db4047644b90f4d65a3b644dcfa067a8ed44b61fd1558455c73437ea351d1d18"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Riddles.nbt"
+hash = "d01cf4ec41fc589d249a1ba3b5a402ba29795c6af9ed9e702f1af3c6df32face"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Sphinx.nbt"
+hash = "fa4166e8da6273ae56dc186cdbeba7ba71419be96097036af4095c73b03133d2"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Spike.nbt"
+hash = "a6b1c95b87d2f69fc70b8ac2e272ee3947bfb5c5eae914dabf63f1e10326d770"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/desert/Desert_Stronghold_Entry_Tower.nbt"
+hash = "2acd18bf7aaf561f1ad0cfc052f5dcf3ecb99b1dd2b9150c8d3f7d79b16dc193"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Big_Tower.nbt"
+hash = "23975606cec45d02ba7d99f9b37edaae588a6a50a3418579a5f1a9a841f0f9c3"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Forest.nbt"
+hash = "3ba08edeb445d480a52454176f7e66fa90046011de3b5461c1f0f6ef9d0d3356"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Igloo.nbt"
+hash = "da8908eb34331161515d9725c429f8229491bb259ac3942706d5b8d51de6529b"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Keep.nbt"
+hash = "e267525734a3b998c48914566572683f3d5c5934a4840d0a6bf48c6573df5013"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Skull.nbt"
+hash = "c3700b6077166d51319166be0afeecfab92269cd8cc078fb85dbbeaf03284815"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Small_Tower.nbt"
+hash = "b8032d5a3fc08beb7fd26c9e76cd8886a251672c194a485834dd16164ae4f7bd"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Spire_Fixed.nbt"
+hash = "1c688a289b4ce1d3c2f311dbaaa0b4660eb943e90429d626b8cfd91f0850f8bc"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Tower.nbt"
+hash = "d7d4aab5155bc471a2c2a3f98d66fd54c7cbefba9089bd4384ae509ad5c480e3"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/snow/Stronghold_Entry_Trap.nbt"
+hash = "a215d211796855cae68720e010dcde69b5ebfc6518a88abe21453b5b8f233f8f"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/entrances/stair/Stronghold_Entry_Stair_1.nbt"
+hash = "074bab02b57ff1d65154970e039a13b4c717686eaf1d0ab54f23f2c8241df3fa"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/boss/Stronghold_Boss_Room_Desert.nbt"
+hash = "003431ab5ebaf1dd7e8b9866bdd78278596355fb91900300db80cdb8ef223515"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/boss/Stronghold_Boss_Room_Taiga.nbt"
+hash = "fc3b8c971dbb8e68755b56f59d98f772c5b5016c5fe36f119ad82aa819f39395"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/EN/Stronghold_East_North_1.nbt"
+hash = "53a22a6edd1629a459a190a3727caa46e7e5ec80f65da4db183e0ba77625f025"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/EN/Stronghold_East_North_2.nbt"
+hash = "bfa9de771796df7dc5fa833e1c77c7cfd5906e75370d9850b9232e0e3bfc5bc3"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/EN/Stronghold_East_North_3.nbt"
+hash = "bb32a9144b999b74421511bbf1bfe0fdbbf3377c60d7b7f37f4cec3a8e28bfd7"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/EN/Stronghold_East_North_4.nbt"
+hash = "84017711a6247da43251bbafc18279435646d6534933d34ec03e8ac73eb47064"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/ES/Stronghold_East_South_1.nbt"
+hash = "5b7dce732708fcca53ebefd017c994f8b20ad5feed53c8135ac402cc7fe7c9bb"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/ES/Stronghold_East_South_2.nbt"
+hash = "92723c7ad5f9348e5d46989dc5ef327c4b32bb3a17fd09d6e64d5b9dd3b7a098"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/ES/Stronghold_East_South_3.nbt"
+hash = "009aacba9bd752fe7a821129fb33eb3bc2b2df11554bb3b84c6fb9d548b539ca"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/ES/Stronghold_East_South_4.nbt"
+hash = "0202176412b83c36ed85dd744674dbd9b030b9514a8f520ad3714db6720b171a"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NE/Stronghold_North_East_1.nbt"
+hash = "f3206608c6d60aae1d4b8949667100ea51bad643fe91f3c82d73cf5b82ca73b0"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NE/Stronghold_North_East_2.nbt"
+hash = "b71656f1ad3fb5a2d86df8ae4f14901f49905d5092243d202b5d62020c4d0985"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NE/Stronghold_North_East_3.nbt"
+hash = "ff4a8cc5ef57b9aad3f3eec74b2065487d94fa89ad003c871cfec43af169ddae"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NE/Stronghold_North_East_4.nbt"
+hash = "46b399b58f1bcce32ac3ba480aecf7b7a63981d9e5657449f6865c34bbf66af4"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NW/Stronghold_North_West_1.nbt"
+hash = "05df1c780de53daaf4f7b7f2f93b6bdb2445c7a38bd86992398cafb3c98b1834"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NW/Stronghold_North_West_2.nbt"
+hash = "81a7d67e27e664473ff3537912360d3cced1c32fabfeeda68b8ce5ad5d126e22"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NW/Stronghold_North_West_3.nbt"
+hash = "44339aff6897c2b195e1d774a1d6fe17671a9c583a54bece3bf699b8b4139b68"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NW/Stronghold_North_West_4.nbt"
+hash = "486c2c261583fea35e076fc2515d0c16ac986287407a0f070a71fb5b34fba732"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/NW/Stronghold_North_West_5.nbt"
+hash = "a456f5f5785a4441457e974dfb1d968766a738a2f219355fce5c9dc2721e4438"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SE/Stronghold_South_East_1.nbt"
+hash = "2be9ac9ca57db047e0dbe595971e834b784cb34a9c74bc73e7e65b11d9096336"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SE/Stronghold_South_East_2.nbt"
+hash = "9eaf64b873d0809be54e6ce852540d22e8cd1d427c603909e0bb45b8b746c75a"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SE/Stronghold_South_East_3.nbt"
+hash = "1c098b050546f2e0e4054b5c3d02d681ac0a15d0524ba629c2d590ef104bccec"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SE/Stronghold_South_East_4.nbt"
+hash = "1c4d5bece1d02dafdeb848109565d9750f8c5c8aa7f07946a64f785f30090613"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SE/Stronghold_South_East_5.nbt"
+hash = "f477f484abbc5793453643c9bab75683c8f8e5828358d02b4ecfd208908251d7"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SW/Stronghold_South_West_1.nbt"
+hash = "070919978952930e93d64344a78a4bfaff92da1ff10525351f9f929228573e6d"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SW/Stronghold_South_West_2.nbt"
+hash = "ec03cbfe98299bf08b1bdebf556be19e4bc15be709625dcc05220e7493e3bb5a"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SW/Stronghold_South_West_3.nbt"
+hash = "6a9d643718e89465196b74a8a103374d700099e479c2673727e876e26ba102b7"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/SW/Stronghold_South_West_4.nbt"
+hash = "efb7b916ef3543590b773f26be1c3bdd63107bcc3df87dfae0ba976f59675f17"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WN/Stronghold_West_North_1.nbt"
+hash = "1d9850dbc92afaabe21ca908f959a43af2472653755301ad83b208eeb19a2c9a"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WN/Stronghold_West_North_2.nbt"
+hash = "d33a4ee2d76ede3e46ff9dc2e0680eb97f94dfd4e93214eb92f4ac2a4c2788c6"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WN/Stronghold_West_North_3.nbt"
+hash = "222c9b4a034a472df3fca8d8522659561274cf859df0860e5f7359beffa5f88e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WN/Stronghold_West_North_4.nbt"
+hash = "9824616da6acfdf9b5cf1bc49ae39ad9cc9041fcf3a4df4937e5a0f08de3f6ff"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WS/Stronghold_West_South_1.nbt"
+hash = "62a4f7bbcb7c5e68e7b44728ed0835d0772db6d5e3554bdfcd69868668f77602"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WS/Stronghold_West_South_2.nbt"
+hash = "57471f825740100b4534561cd7797e83c77725931a327bbb6f9e9545f38cd56b"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WS/Stronghold_West_South_3.nbt"
+hash = "c4eb3a5cf3a4f5e2953f8f4e3b8b29ba79454ba6cc6b886fc140ed2784331beb"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/curves/WS/Stronghold_West_South_4.nbt"
+hash = "3e71ca3591aa9a19565b7940379e51c8f7a1fe61aab5adae71c896cab12e1439"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/EW/Stronghold_East_West_1.nbt"
+hash = "6681a100454df80c3fa3b619e143eca2506578713d9958c9a7fff43e03216541"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/EW/Stronghold_East_West_2.nbt"
+hash = "1489e59600861f61e9cfdba174be49d07b27c568903a9714899f5ab1a15b3b96"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/EW/Stronghold_East_West_3.nbt"
+hash = "8f5faa3f82a53dad40a1ab6d3792f694572d1ead27aaebef39936bddd04b2b56"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/EW/Stronghold_East_West_4.nbt"
+hash = "a704ff8c72c797fa200018558d52f77d69b2d02866709e002d2bdaa5206063e3"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/EW/Stronghold_East_West_5.nbt"
+hash = "c0e2cefbd893a74bc4d9d56a1e877cd743c40c8ee764fceebac05ea65b2cd38e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/NS/Stronghold_North_South_1.nbt"
+hash = "e48c1eb1727d7d0da49049cf8bd991511b8403375371600a576a4061c3cf2bfb"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/NS/Stronghold_North_South_2.nbt"
+hash = "eb1c1c0a4716c40c983a20b0b5ef5039d20e72e04a283b685a210f03f3f97fb1"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/NS/Stronghold_North_South_3.nbt"
+hash = "1e7c1c3ce0ca18be59811c21e961002163c4072dd975007f677dc32736c29800"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/NS/Stronghold_North_South_4.nbt"
+hash = "14bd3bb5e73561bf22700a5f06b4935d384228b90b3e30d9ba78e3d740f3a149"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/SN/Stronghold_South_North_1.nbt"
+hash = "da687bae60bdcf5bdc62d1d3130e1cd1457a0cc96a22494d4c27a5db9f274d84"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/SN/Stronghold_South_North_2.nbt"
+hash = "9d6330a613fb52d96bc90c95725feb9cfc4cc2774bce3573db4d3eb1be853ba0"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/SN/Stronghold_South_North_3.nbt"
+hash = "36278770c320ce9333c3044950e6bbeb2be21b098c99df3ff7f321744fd66408"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/SN/Stronghold_South_North_4.nbt"
+hash = "8a01848c7b96c8cb5aa1c343b81997fac487e5bc0ed8d00325fde44b57bb4835"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/WE/Stronghold_West_East_1.nbt"
+hash = "224c8738019acaf9c62eda63d48a3d8a561bd9ab5ae7bd1797cc8a38db3d6da9"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/WE/Stronghold_West_East_2.nbt"
+hash = "24030a74606141ea91600a534b3beea78bb5e4d12a02d4bd2c29bca7f99e873f"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/WE/Stronghold_West_East_3.nbt"
+hash = "1839c4565a0ac631bd5885db9ff89fde57638e8e50eac3c83276bac4685c738e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/hallway/WE/Stronghold_West_East_4.nbt"
+hash = "5a91398aa9fba79854e182dbf4604ad745f2e906a451de14f1a4e0f5f40144a5"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/stairs/E/Stronghold_Stairs_East.nbt"
+hash = "f3def7f5b5f92b9dceddfef812f93eac7387bf1add0f3b0b4b6ffae3d020f2da"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/stairs/N/Stronghold_Stairs_North.nbt"
+hash = "f3bf5b7675d69d47011d0773f067daba775f14891c593a5a93d49d8371edb159"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/stairs/S/Stronghold_Stairs_South.nbt"
+hash = "1089f93d6cc25f4a782f66b32abac85c414d4b2bbf2edcbb54c228a5d8cf0ddd"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/stronghold/normal/stairs/W/Stronghold_Stairs_West.nbt"
+hash = "f5caf05d850e8e5f717064ce4be48563319bec1dbcbdfca969795bbfca7ed2de"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/boss/Stronghold_Boss_Room_Desert.nbt"
+hash = "1c9230edae5ed7e5192814f37c1c620f85b09d762543ec0000822e72207a5dad"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/boss/Stronghold_Boss_Room_Taiga.nbt"
+hash = "2854fcec9d532435e642e9cfd9d05f21d8828acdb05aeed06ba24ce98e03992c"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/EN/Stronghold_East_North_1.nbt"
+hash = "fb12140a32559199bedc568457ba739a541586944439be154134113a57ebaf22"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/EN/Stronghold_East_North_2.nbt"
+hash = "66284299438a90300a9014fd725a56b3993b65eec292724873daaab99f8bf676"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/EN/Stronghold_East_North_3.nbt"
+hash = "27d1f117468f4d312a2b99dea55fc9b0bdd4cc82aee2f86830a2a89eb7736c69"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/EN/Stronghold_East_North_4.nbt"
+hash = "74ac2a613e20f52716637d95124ad673c37c5a3e39f14905bf597cd93d0bcce7"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/ES/Stronghold_East_South_1.nbt"
+hash = "0c70b472a80e510bf6a6c5eb0611e68f1ea1e6cd495e296830b951dec61a6608"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/ES/Stronghold_East_South_2.nbt"
+hash = "0f35f24bc3db452006fe9369eb092cd12cb43202e65ca2660fc9e43b7e86612d"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/ES/Stronghold_East_South_3.nbt"
+hash = "8a8ac175ebbdd0a74f422ca768ab21667dc9e32125097b9a8c676058ce56770e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/ES/Stronghold_East_South_4.nbt"
+hash = "d8f779b0133c801989748cf9956eeb16051c4b9b3ae5e13ee015d3fa3d8fff3a"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NE/Stronghold_North_East_1.nbt"
+hash = "5c4a71fdb1d07aacf98b362184776b25eebc084473680dbc56ced3c77542d721"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NE/Stronghold_North_East_2.nbt"
+hash = "0cc5ab7aff842a82f693141b9c3d3bd87f0d2399cd49b5ffc76558a3bb063276"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NE/Stronghold_North_East_3.nbt"
+hash = "37a655734d6f04cfbb5794f2f3966e5b87eca493ac52422149be3ceb605aa4ff"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NE/Stronghold_North_East_4.nbt"
+hash = "092d222109ff21476cc7e76bbb4c95f06fd41e510cd2d85bded9170396b54f9d"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NW/Stronghold_North_West_1.nbt"
+hash = "9b755c208fc0a095deb281c6c7ef2139a90a5ec5ebee9675ca2309988757d4ad"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NW/Stronghold_North_West_2.nbt"
+hash = "668ce4a18050329ffdab72c5e0157b4d50e0f5a355f9067175038b727567d9ff"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NW/Stronghold_North_West_3.nbt"
+hash = "7ce0a0cc8f30b4b32c35587b3467b8268970436c15c107bc22c103a2641944a0"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NW/Stronghold_North_West_4.nbt"
+hash = "07c7c0c0cafd50029ba590500a1851c84ad57c19984eafd1f5e3a775d3280fb3"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/NW/Stronghold_North_West_5.nbt"
+hash = "374a81064c19b78e9094b522dd60956869ecd355f2a0995cb8f4a78ada51cf6e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SE/Stronghold_South_East_1.nbt"
+hash = "49a142e59f90623f45426cf8b626e3cacec365f12e24b6e04e097a873257ed75"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SE/Stronghold_South_East_2.nbt"
+hash = "1889ccef20b2273046022c69a9f416396c0aabbe3082b17b7997a6da10991e5f"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SE/Stronghold_South_East_3.nbt"
+hash = "7558b2b7207b5dd2f03c0cc68f929b3a9812b630fe32b058809d36357f3fbf77"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SE/Stronghold_South_East_4.nbt"
+hash = "ff998403498aa046b82d1961cf4d2dfd90dbc55d7018e0cf1e15f898d7d1322c"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SE/Stronghold_South_East_5.nbt"
+hash = "a79be77f3195941c4b3509b6e0b14f31946166ece4d207d7a277d73fdcbd78d4"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SW/Stronghold_South_West_1.nbt"
+hash = "6c67a4484d6f244ca405ac60a6529ec9e4761235cc24973b2d5b8f9e5859c748"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SW/Stronghold_South_West_2.nbt"
+hash = "c491683307b0edec2cf608dc6dbe1a1cfb9baeb57a321021e55ff34d1f456f64"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SW/Stronghold_South_West_3.nbt"
+hash = "f5cf26558b4c64784b99ff1e55ccc7c94b59e76f6f7049340e01b972c5b23cda"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/SW/Stronghold_South_West_4.nbt"
+hash = "044a87f085b5123226568531fbd3e09bab66407cec8f27edbb98f24c397e2bb4"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WN/Stronghold_West_North_1.nbt"
+hash = "e622c2e5df603404ad6f454fe31bc6688c8fae4274c1fdf273aae6e4c696dcac"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WN/Stronghold_West_North_2.nbt"
+hash = "d3f27496c9499a240803b80419d7d40da74a9cf36649777618fcf338669c485e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WN/Stronghold_West_North_3.nbt"
+hash = "fb929b5e7c68c9b7b00ecd1440f13402a905a797f4250293189cfb097d698974"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WN/Stronghold_West_North_4.nbt"
+hash = "36784a92a155a230162de17eb2f3955ff251fef36eb7c2bd7bdefda8aa2dbf7c"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WS/Stronghold_West_South_1.nbt"
+hash = "b390e7b24935179c13223564568ef0986dc2429bf6b96ca5c4a33d2813a5a11e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WS/Stronghold_West_South_2.nbt"
+hash = "b74bb72f0d574e236c1b30d5172519595b6300227b175874b6990e4bc9f8cb92"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WS/Stronghold_West_South_3.nbt"
+hash = "ab18a2941dbcf56cb15f75bfc21eb610ac92b46d3c18cb2900c061f5a8fcf3e9"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/curves/WS/Stronghold_West_South_4.nbt"
+hash = "49024527b0d8dd4a86d4c9d6dba5e883e50da46a7346a566fe45f649fcddf790"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/EW/Stronghold_East_West_1.nbt"
+hash = "109101a79feec1a91387eef2beeff40f2118a2178bc61910e6238100ad859d4b"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/EW/Stronghold_East_West_2.nbt"
+hash = "bc5f3769baed18cc658bd5aa60530e0b96d3eef8235576e6c4150fc96528fdf3"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/EW/Stronghold_East_West_3.nbt"
+hash = "62e6657b93a70440e8597af402678d149cac3a31e4db872895b4cb239b0552af"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/EW/Stronghold_East_West_4.nbt"
+hash = "bdfef94a91bfb43fcde1e77ee1f0b31b55b1ba4902bf848ca1c60ef25ed8071b"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/EW/Stronghold_East_West_5.nbt"
+hash = "b8e48ebd5ccbb724aa4991339cf6fe0559bd3ee04ed689976ea8cd8d11c635ea"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/NS/Stronghold_North_South_1.nbt"
+hash = "4ab8c363181e00b70b34ef0dc5de9443895c8be5d7fb303686ffb7eaa18be36e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/NS/Stronghold_North_South_2.nbt"
+hash = "2c03e109b2f24cf762845e00d9b3046d6b753ae538057f58845c0924803bc979"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/NS/Stronghold_North_South_3.nbt"
+hash = "c463ea2d1c7e4b1d0e3e5e810389a3b54fca770be2e3851e629dd227d757374c"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/NS/Stronghold_North_South_4.nbt"
+hash = "5d98b5f583f358bc48eaefc2e707cb7e105fe53cbdda192707e97aa0e2e468af"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/SN/Stronghold_South_North_1.nbt"
+hash = "69e4c46faa5f4fa31b0f198e13c1cc640eb590720105256d9b57e9b417a73078"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/SN/Stronghold_South_North_2.nbt"
+hash = "5013355116bac390b018e09ac48de9eeb04eb61b74ea14004dcc8a2ac3717a98"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/SN/Stronghold_South_North_3.nbt"
+hash = "91a60fccee81d1ef4f55af736e6d23486a65f00c2cf8858d660653910039f012"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/SN/Stronghold_South_North_4.nbt"
+hash = "2f1732e163ad76010056521be04c0425b3ff1062d059bdcc7656711d8704262e"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/WE/Stronghold_West_East_1.nbt"
+hash = "80184449b999470e44be2b467a43c7910e6cc4d96a57dd1fc1982e6bc214a1ef"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/WE/Stronghold_West_East_2.nbt"
+hash = "b311863be49f6c1489f5b0e0ab9cc42eff7744366f5fe2c05b95f55668b2de2b"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/WE/Stronghold_West_East_3.nbt"
+hash = "f5c9f288d07f467ae0053b953d4a66695c9d4e212d2658abe632887f15e9d4b6"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/hallway/WE/Stronghold_West_East_4.nbt"
+hash = "0b32c216c7c2309881cff06c7a08a0601101cbb51422542725e3b2ec380883bd"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/stairs/E/Stronghold_Stairs_East.nbt"
+hash = "e001009f9612f8283d9c0bcc50d11d9905096cdb9cbcac21bee0ed7856c6bc49"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/stairs/N/Stronghold_Stairs_North.nbt"
+hash = "b5b096468337b533a0e0d16849cde14e878043bf535a7c0b1bd3b5c9eef95400"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/stairs/S/Stronghold_Stairs_South.nbt"
+hash = "b7cc702c1ffe3ddc06a78cf1c38b80d68d1446b1aa205e1a6ddc40762a19c1ce"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/LEGACY/volcano/rooms/stairs/W/Stronghold_Stairs_West.nbt"
+hash = "bdb784ce2cb16a79e0b3a05a8694ff062a3bf52c651d019f8bc566a9f7b04f57"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/Stronghold_West_3_Way.nbt"
+hash = "771012704b532f13773f8d86bc7779be8d8c43a76df34956f31232fc8657e707"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/castles/normal/Saint_Patricks_Day_dungeon.nbt"
+hash = "643ee992d62c4219e1986b40ff802933b2e1a5cfb4e6043af25bb435114eda97"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/castles/normal/Shower_Canyon.nbt"
+hash = "88ed86c91a56d2f4316564be132208eedc8e55fdc6a0ae406a63991ca9b986a2"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/crossworlds/Botania_Isle_Radical.nbt"
+hash = "08ddc542f5f46e11ec12a2c1cfcfc4ea202b1dd38f71d8a238103a3763f03fb6"
+
+[[files]]
+file = "config/CQR/structures/DISABLED/taverns/medium-tavern-1-v2.nbt"
+hash = "1e46426bf26c2b9011aec4b52b52a77c6511c581f02a2f100ba94dbc8f352523"
+
+[[files]]
+file = "config/CQR/structures/castles/floating/Castle_Floating_Island.nbt"
+hash = "943d951465b7d936b913d44dda20db15cfe8bcbfb685eab2f374ca4374c80a7a"
+
+[[files]]
+file = "config/CQR/structures/castles/floating/KamiPalace_Remake.nbt"
+hash = "88830072c98a2153613237a2b20919d32ff9d347c081bf665e8f14bf26e4c6e8"
+
+[[files]]
+file = "config/CQR/structures/castles/large/snow/DragonFortressV2.5.nbt"
+hash = "c0d6ce1663ba5953eb2869b67e2c3d989ad20fa32d9bfb3a6b55f0db49293c11"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Castle_Arena_RemakeV1.5.nbt"
+hash = "d9f4e2a51b63a04d8e39cff51043a14f8d9a3c6da79ece2c404c2f7fd43fd8cb"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Castle_Lake_RemakeV2.2.nbt"
+hash = "4fdab85fac50d2e46e2214bc60958a4e136ea65e1e1c3673ea9f050834071bf3"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Giant_Tree_Remake.nbt"
+hash = "edcab7e9a6e3f79976864d98d8cad3ea3c2eeb0092fe6fe5a6c99494adbebe9d"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Kano's_Wizardscape_RemakeV2.nbt"
+hash = "3affad28a37756103ea5116c3cd5024bcddc5b0b8112b783380a9f4616914301"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/NeaEkkleasia_RemakeV1.nbt"
+hash = "d0b61dce9fca130b755a9f04e572708ee0245eb44ffc9af3794f6ff1131a9ff7"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Ravine_RemakeV1.5.nbt"
+hash = "d72a88d8c5bc205a502e8b87b52fc81322967a2caec1c7b3863b97285f0911a1"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Redstone_Castle-v2.nbt"
+hash = "999eb0a33e374c960504e996374390442179dfd76f99983292f5cdc7650385ad"
+
+[[files]]
+file = "config/CQR/structures/castles/normal/Riverland_Castle_v2.nbt"
+hash = "7a3995207d1e81c6015629b27be86fceb5de66ef44ae52f237b60d4762c2ba64"
+
+[[files]]
+file = "config/CQR/structures/castles/ruin/SpectreDungeonV4.nbt"
+hash = "2fa9379a3d01734ad332480eb46bfec2b0dd0a30a8e117bc5457352eb7a67b15"
+
+[[files]]
+file = "config/CQR/structures/castles/ruin/SpectreRuinV1.5.nbt"
+hash = "f51f010508bb95407f57ceb896a443ba8156dd3849096e9c080211f6ca34e710"
+
+[[files]]
+file = "config/CQR/structures/castles/ruin/TempleRuinV2.nbt"
+hash = "2a3ee7df414d783bbe636eaa2856f18e353068f7b958bb7f4e4d65390be4290c"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/Castle_Snow_Cathedral.nbt"
+hash = "12dab803179825755cc4322adc179c19f185df5ff758ff36a1cc046cdd1bb197"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/Castle_Snow_Mountain_v2.nbt"
+hash = "989c6c91ac2387776cd3afa87388e872157ac56effa2bfb0e29c461d02116014"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/Castle_Snow_Spire_v2.nbt"
+hash = "8afb5f262c27e6dcced72ace4dae65dfa6d4caca5c0334f6eea6041d49da996d"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/CathedralV4.5.nbt"
+hash = "5e1bbf2d53b4414b1386625062778805ea7423dc0a0f41d77fdb7f1f3f8f387e"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/CubePrisonV2.nbt"
+hash = "35ba4472ed8b2b402e409a5a54f015a9837f5fa8f525fbc521a3b63e99d6a32b"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/HardstoneFortressV5.5.nbt"
+hash = "4b4187284256ed2d335bbfeb530688971387626bc3d5d78da86867a603e845bc"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/LighthouseCityV3.5.nbt"
+hash = "253fae14417500ea63d29a3c422d9fe7ebd8c57d7d6e3cb6b75b4ff87a986e09"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/NamelessCastleV2.5.nbt"
+hash = "d132be2ffcda052eed88b7b141051981b554117892752b162018c09bec7dc478"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/Walker-Citadel-v10.nbt"
+hash = "e9d0c3ad82c9ca74280d2c263e3adefc33a3be891604b4bd03c4d92a1bee58b6"
+
+[[files]]
+file = "config/CQR/structures/castles/snow/mountain-village-v1.nbt"
+hash = "bb4c4f51d87cda69cb5e56987c0433f9fb47fb058c2ba018a8b6d3440b861215"
+
+[[files]]
+file = "config/CQR/structures/castles/thefinalplace/TheFinalPlaceV3.nbt"
+hash = "bc5512da1cea8e58722b47dbd19344f54b6061ae5a39a3edcd0a14d332c68225"
+
+[[files]]
+file = "config/CQR/structures/caves/normal/Birdcave.nbt"
+hash = "ab745b8393d3431409244461060c2a74b3490f31cca2546c4be2cffd10dd480e"
+
+[[files]]
+file = "config/CQR/structures/caves/normal/PortalCave.nbt"
+hash = "4ee337f64e246ad563abeae4903315225d3ec737027b784c7587c2b62073a371"
+
+[[files]]
+file = "config/CQR/structures/caves/normal/PumpkinCave.nbt"
+hash = "1675a9e8133d188e3e82079c510c02310a876f3ed2188bcfe94339876176a2b2"
+
+[[files]]
+file = "config/CQR/structures/caves/swamp/AltarV1.nbt"
+hash = "413961463574c8101383c62d698c248fedc1095c9da3f30aa38d1e9446a6bd8b"
+
+[[files]]
+file = "config/CQR/structures/caves/swamp/Swamp_Cave_Core_1.nbt"
+hash = "a726b3953d5a3c36d32c712209a384f0e67889756bff753b4dbb787aa3256e71"
+
+[[files]]
+file = "config/CQR/structures/caves/swamp/Swamp_Cave_Core_2.nbt"
+hash = "d7f486c97d5b70e7cf937e17e8d6322e51950b3ebf8a1848915bbe2e60a30f9f"
+
+[[files]]
+file = "config/CQR/structures/caves/swamp/Swamp_Cave_Core_3.nbt"
+hash = "9f74bf37a7a9fb475d839421372824330228367ec3c5216ec54b4562a8da70ec"
+
+[[files]]
+file = "config/CQR/structures/caves/swamp/Swamp_Cave_Core_4.nbt"
+hash = "d76115be11d3fa49dbf76b46d2eb1396c5eaab95089c08d1fd1e5911e21ab2b4"
+
+[[files]]
+file = "config/CQR/structures/caves/swamp/Swampcaveroofthing.nbt"
+hash = "8af61177e76571e9e9e61ccda32e46bf921e259faa763b91dc4e4de29ccdb387"
+
+[[files]]
+file = "config/CQR/structures/crossworlds/Botania_Floating_island/Botania_Isle_Chill.nbt"
+hash = "6ef396a2d547cc3c92c9eef6a2de850afe417e604167f6696131391e420c7b3c"
+
+[[files]]
+file = "config/CQR/structures/crossworlds/EBWIZ_towers/The_Tower_Of_Colors.nbt"
+hash = "0e0bfb69a237e1285c4e02dc7b0506beea3cad950d7eaf157af19e016e960df0"
+
+[[files]]
+file = "config/CQR/structures/crossworlds/better_with_mods_mill/OldMillBetterWithMods.nbt"
+hash = "a5183451a09d28da24b3163df62c41f2c6cacbad0e527d1879504ba9a2f35df3"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/centers/NetherBossRoom.nbt"
+hash = "13ff438fc8548e407436db73f9fe03da2a4546e84a91847b6a13e56f1637f66b"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/centers/NetherBossRoom3.nbt"
+hash = "22851bc87650e0a3a783d0ca98be135f8863c1497e5ca70b326b4676d0d6e43f"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/centers/NetherBossRoom4.nbt"
+hash = "21f8ab35baf165b09cb76a9f8b1498006eec2370262c0194087c31e14709f8f5"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/centers/Netherbossroom2.nbt"
+hash = "f74148e207ea13d8fa565bd916635a594fdce373be5635a54cf382a4b5b20085"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherBigHouse.nbt"
+hash = "b444214ab8aa5983114c316933ab829bfcfe8bee27a94bf7777a8fa0ea894b85"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherBowl.nbt"
+hash = "0ffff43e0408a554e2fd01e7f4dc189ca72dba5f43d953d4cd3fb0d371434aa6"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherCityDiamondPyramid.nbt"
+hash = "d8c933a3e53e4a9a4b5f85618a1923fe1c40217f026f955c114a75ba5fb35987"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherFarmEnchanter.nbt"
+hash = "df1c24f994935919de53bf9a33eaa04b7ed4b8058850514e3c8da1bcbebcafce"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherFarmHouse.nbt"
+hash = "cac1d7c0000ecbaa8f9c1721e70055b84fba753c9ef48d4f8fb2abcd7ffff0ea"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherFourHouses.nbt"
+hash = "e05e5896740c934ef1085b35f9932b69c9d7d53aa4dbfa5793181d84df55d750"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherGhastTower.nbt"
+hash = "a798871eb877dacb7f837c1a376da88581c3a529390e47b0da8b0ad951588110"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherMultiLevelHouse.nbt"
+hash = "ad35799738c0ad3a0e89c3ba360e4344f1291c1c73352e0dd4b6800f6a737434"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherObsidianTree.nbt"
+hash = "6833ea285d30dff2395c81e77dc686ee4857dbd90338ea451ba370f9712debc0"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherPrisonFarm.nbt"
+hash = "2c824dee4f07d8850b65a0e3bfe8ab1ca76c6f3853dc0e6d5ca678caf5d3c0ed"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherRabbitRoast.nbt"
+hash = "2dfca8a1330da5115a9f76fe8e43ba8ca335902ce6a08250ae15c66df42dcee0"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherRailwayStation.nbt"
+hash = "150c186ba45fcd0870fbc2fb3ed316d350ffb236a6d194da5a9d30b4771071a8"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherTemple.nbt"
+hash = "9668e3e2a0af3c9c4641c934aff12835bcef84c7c642a51a3664172cd5b40d36"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/NetherWartPlanterHouses_B.nbt"
+hash = "11f050bbc65b9e09035097f68e14804c98bc17d1e94c475033be7cb29ad5aeae"
+
+[[files]]
+file = "config/CQR/structures/floatingCity/islands/Netherfarm.nbt"
+hash = "5ff59259dcfa6a140673de9a4fea4d9d9257d32aa070237fd67f514d9a68c6eb"
+
+[[files]]
+file = "config/CQR/structures/islands/Pirate_Island.nbt"
+hash = "35e1d60fe1368b00845604d7d4b8becdc7d4232b5be334dd4314de38a15d7431"
+
+[[files]]
+file = "config/CQR/structures/nether_island/Nether_Dragon_Island.nbt"
+hash = "6c06f3361cc36f61a9bbb54f2fce42195cbf1ea11c7a696bc9b731b5bd37875a"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherAlchemicalMuseum.nbt"
+hash = "db35a27879e5fbdd5c2a8904371fe19eb6cb2a1a154f91285fb84965f6a64cc8"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherBarracks.nbt"
+hash = "8066839fb30efbfc49d8a29d4091d50e9aeb56c70ed0326c5e62814f9c4c305a"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherBellyButton.nbt"
+hash = "f2913656c339bf8a948f26a3bc8523521d539598f536478984a79562223210e2"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherBigHouse.nbt"
+hash = "9a2adfbe89668f8b9031fce2b73b811173ee079fe0e1cbf6285e504d6d39d425"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherBilevelApartment.nbt"
+hash = "26f29e0dade44eb04bf59422b3eebd403ca09753c14eb6495e583548493d3f1b"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherBlacksmith.nbt"
+hash = "3a49105aa98bda6f357564bdd6207449204b8aeedad5abe35a78d92249123a73"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherBowl.nbt"
+hash = "ac060f15a96aebf15de1804fe089f9d13a07140de912368f9626b5de9a7dfc1c"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherCityDiamondPyramid.nbt"
+hash = "436c77a62bb2b97e832df7caaebde3133489b2ab36a9f2ddc8eeb21f9c434fe4"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherCityPortalRoom.nbt"
+hash = "e1a8d24daf11345c326b2dc1d718f0a0830f98236f26755f0ac8c1e2848324b8"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherFarmEnchanter.nbt"
+hash = "b83a6759566af2e2d77c6685c083e058676898c08aff28d06910e1f1334eb70b"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherFarmHouse.nbt"
+hash = "761b4f283499497c256469c3ac8bec48dc50a212fbeab5701264d07b58613bb0"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherFourHouses.nbt"
+hash = "c4a7ac77d93de83eb7c46145b3b1531a29eeab8773b2be5d63b3b2cdd6a57c21"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherGazebo.nbt"
+hash = "1e045afff5ae06478a4bd0b20c788f685b87ded732182ead9723455f717e20a9"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherGhastTower.nbt"
+hash = "4013d0b2f5f37d83772cee29c39a6c214676f41cfb19b10985554051177346a9"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherGuardPost.nbt"
+hash = "8405125e625f5af55f5103f89d3659376e28d006264fe56e2514410d4ca459af"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherHotel.nbt"
+hash = "24b67c8818e0a0b0883a21f4af28b39cf530b0632ea3b50768f8ba4406bd7b85"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherHouseWithTumor.nbt"
+hash = "8be3adbe0a5f2fd32f48a53e766234fd93b60b261d91758a9332d9024769d8d8"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherLounge.nbt"
+hash = "88b4b1f89a22bb076a5adde8a29e48120c6834e8783d540ec71d127c6d419b8b"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherMultiLevelHouse.nbt"
+hash = "ea2d1d70c8b96e431440589b913355367bebcf1aa92a72dd04dbdfd0cd90c9ed"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherMuseum.nbt"
+hash = "1ee25632d729ed4ba2ee782fd0bf5192390e7014275eb881481ce0d09aae9ada"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherObsidianTree.nbt"
+hash = "d4af7aaa7aa4ff1e03ebdf42399334e13f116f19502bcc84b317b9192bd6779f"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherPrisonFarm.nbt"
+hash = "b57d1c2ae278b878fe7a94d7baead872ab60136e1eb319c48b73808c09fbb090"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherPrisonTower.nbt"
+hash = "db3d92afdfdef74ef5d83d4bc52e7ccc6269745c6eb0023f72b6d4a3e4317e7f"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherQuaintFarmhouse.nbt"
+hash = "af097c7a85d0007ca3264dd576c8c8d2781037a8ca67d92d499bc44c6b6b40d1"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherRabbitRoast.nbt"
+hash = "c006c11639899ff28f21092befa285330e4fff5d3df17a520eafbe95e6786d3a"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherRailwayStation.nbt"
+hash = "fd09b15eb81ca1b2d01d132c29dcbfa5717c7d0775d29e626b8901c9899da887"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherRedstoneCathedral.nbt"
+hash = "9521d4f1164266eeb2e501d4d567ec825d4b228eb863aa6bb8bba23bb3b28756"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherTemple.nbt"
+hash = "c105881faf37094b5332459d83a2c4e6f37df73f999bc2c9fc6255f66cfba790"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherThreeHouses.nbt"
+hash = "c692812ce6bb45232a96a1f47975c298775a52c52aa4a3cfbf150abb2059e72e"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherTrainingRoom.nbt"
+hash = "a23b668813d132d5fc30626396f95967ba76b0e34af181a9b8932c96a6fbb981"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherTreasureTemple.nbt"
+hash = "5188ac0e77b4aa811e2cf5495303c585601da977954d3f9ebfaa279a8427011d"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherWartPlanterHouses_B.nbt"
+hash = "1dda988033fda02c88b31570fa71b43d84eaab9ce40697decc09abd8a3346e77"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/NetherWitherTemple.nbt"
+hash = "cf773337948923079a747d91085069a6fd2274e2e0cd3cae61e35dbe1615f026"
+
+[[files]]
+file = "config/CQR/structures/nethercity/buildings/Netherfarm.nbt"
+hash = "6023a02baa0159a7ab1bbfad284fb96750068abc67cd7d840bd3e5c98f65fe6e"
+
+[[files]]
+file = "config/CQR/structures/nethercity/centers/NetherBossRoom.nbt"
+hash = "6083c40ab08d6558298e970aa056e2c591aeb137d74ce5ad9cf6d0c58444901d"
+
+[[files]]
+file = "config/CQR/structures/nethercity/centers/NetherBossRoom3.nbt"
+hash = "fa7f7d836d66608142d0d8ae15a55765d8b58bd296d71f4cf70b1a2e1d771b5a"
+
+[[files]]
+file = "config/CQR/structures/nethercity/centers/NetherBossRoom4.nbt"
+hash = "83c7d2f4940e16b6d1de81449d391e612f85041bafd69be2857d239f0b1b1b17"
+
+[[files]]
+file = "config/CQR/structures/nethercity/centers/NetherBossRoom5.nbt"
+hash = "1f6d6d6e8ba84cd24397db30bc0a8fc164361484ae45917b294aff54c5c45de1"
+
+[[files]]
+file = "config/CQR/structures/nethercity/centers/Netherbossroom2.nbt"
+hash = "b644ca9b672b15c2e54e2dce55ad11c302c31e02546407cb13051b726537aae1"
+
+[[files]]
+file = "config/CQR/structures/outposts/plains/Lego_Barnyard.nbt"
+hash = "47b98dae164c4f0d1f37c4bba2870ffa0d9d12966315760fbeb8b9fd64480e7c"
+
+[[files]]
+file = "config/CQR/structures/outposts/plains/camp_v2.nbt"
+hash = "08c79a941d1aec241696588f486889ce5c7df658f8bc972a202ae64bdfa00f2d"
+
+[[files]]
+file = "config/CQR/structures/outposts/plains/illager-tower-v3.nbt"
+hash = "c3dae6c1ca2157893ce20e485d816b0a774f19f94fb19214dc62d6e968849fd0"
+
+[[files]]
+file = "config/CQR/structures/outposts/plains/outpost-tower-v2.nbt"
+hash = "fab9b447a768a72402b64c5e9dbc81a905a9fbc54ea0277edb82aeefe3f5485c"
+
+[[files]]
+file = "config/CQR/structures/outposts/plains/ruined-tower-v5.nbt"
+hash = "55da46ed09c8c28aa4e6e286f455afa0dc5ec7b0f1766f0f57a8dae13798e2d0"
+
+[[files]]
+file = "config/CQR/structures/outposts/snow/outpost_snow_1.nbt"
+hash = "e8e771df374084d1654cd345cedeb3bb163ffeb5e25ba91ab0a2fbab5d500195"
+
+[[files]]
+file = "config/CQR/structures/outposts/snow/outpost_snow_2.nbt"
+hash = "31a66bf2b47d1a0d49803f95f61f7ad13204b43271f2c4185dc269ba4442b1a0"
+
+[[files]]
+file = "config/CQR/structures/outposts/snow/outpost_snow_camp_remake.nbt"
+hash = "cc8e44a77252cd53f8a0d9d4aa70cd8f23c98e03553498fd75fd559bfd8e83a6"
+
+[[files]]
+file = "config/CQR/structures/ships/airships/Pirate_Airship_1.nbt"
+hash = "784c0c5ba3ff5c42ae3b188efd4b30837725e25e16b70f8b9deca8d676d97bb0"
+
+[[files]]
+file = "config/CQR/structures/ships/airships/Pirate_Airship_Claw.nbt"
+hash = "e012e3b91cc5827e10ea9bb3b55ff3fa6a76ed3c46a043db78762b7fb56dabf9"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_large/Galleon.nbt"
+hash = "a65a9dba8678413325ab29c8a126e57b54ddb53f81b453a516f26ad79bb03efd"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_large/Galleon_Cannons.nbt"
+hash = "53f1914a1b834c7108b5949ed622517f382f093549b7fa1f1bb49f3c5cc9385d"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Creeper_Ship.nbt"
+hash = "311a60fe68291050ce39bbd20099e8e98f59008c69fda190a79228c5fe58b188"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Enchanted_Ship.nbt"
+hash = "d64c1b511e4cb75da3879970e323ef96ca3a8d9943298548f108fc97d87946b9"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Fishing_Ship.nbt"
+hash = "f46301335aebb4cdfeef4da6364d4600dd9c986e06155b28170cc9b96f8ff649"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Leaf_Ship.nbt"
+hash = "6dab2380ea1739de6a6120743c8ec9e0b7019c8e482b6a73b98ea8b9d6d8c721"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Nether_Ship.nbt"
+hash = "c3906394f583f2c5dde511a837d6caa745e3ee8e9dcfc1feea62e17744738901"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Ship_Red_Square.nbt"
+hash = "92eb0697983f82cc1e6b49cbdca0c729e5f3fdd5e50be3d0ecc747e812f18966"
+
+[[files]]
+file = "config/CQR/structures/ships/ships_small/Skeleton_Ship.nbt"
+hash = "f00e34eb59537fb1731db7cd329f9ad9530fd13e88a3fbb68e74cbbbc1805592"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/desert/Desert_Stronghold_Entry_Oasis.nbt"
+hash = "42a2bf7e8f226e52d1f5c302c22283e1bb64ce85636d3bb98a3ebe4cc1651b07"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/desert/Desert_Stronghold_Entry_Pyramid.nbt"
+hash = "2b34dd7952852bb2d33948d3d2546af0a0314bf9badfa1e46b1ea60cd0ee48b9"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/desert/Desert_Stronghold_Entry_Sphinx.nbt"
+hash = "567d98b9e600c1505721bed716fbec3203af4c0aba4bcd5f2797fefcc0e9ac1d"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/desert/Desert_Stronghold_Entry_Temple.nbt"
+hash = "5b60a64da091a6933e93771808016e470fb1eab12e2e8e584616eb77f9e68db7"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/desert/Desert_Stronghold_Entry_Tower.nbt"
+hash = "439d7c90712959bb8b83ba477c4351229cde1f39898d155059c167da3e019ee7"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/desert/Desert_Stronghold_Entry_Village.nbt"
+hash = "423a88f05c3f0f0609dc330cb6289b030c04e8d8bcccef946587513535861e10"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Snow_Stronghold_Entry_House.nbt"
+hash = "3c606cd77710eda0b5a61b599e64fe48bd13ab36305720bec3ccc21d7d9a63b3"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Snow_Stronghold_Entry_Skull.nbt"
+hash = "378513f8b1f32883de27e7256bc7ef7f884c7c679570f4f8468596b429a193a9"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Snow_Stronghold_Entry_Spike.nbt"
+hash = "4492854ea1afa6f4317ac16ebce47bc6d2ce3f6981b9a74fb1bd9e592de86cb4"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Snow_Stronghold_Entry_Tower1.nbt"
+hash = "b8d0c7b201c6cd0ad5fbdcb7f4386fef52fd32249feb9de2be526305b6a1c8d0"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Snow_Stronghold_Entry_Tower2.nbt"
+hash = "d2120a99d2ed10f0a9f262c651b275a79209252c795325eeb167619210296353"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Snow_Stronghold_Entry_Watchtower.nbt"
+hash = "b60a65a1d1f7eb8c327983e26528830464f1960c354b2b591c8190cb13cb7680"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/snow/Stronghold_Entry_Trap.nbt"
+hash = "a215d211796855cae68720e010dcde69b5ebfc6518a88abe21453b5b8f233f8f"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/stair/Stronghold_Entry_Stair_1.nbt"
+hash = "fb6fe94eebb3408b0afa0c95ec80b52e01fc276ae5b8e2ff46cd668080f17f63"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/stairSegments/Stronghold_Stair_Segment_1.nbt"
+hash = "b46e078822ecee6f7540f30e15184a6b502d8e8e3dc22e1de0c03e276450af1b"
+
+[[files]]
+file = "config/CQR/structures/stronghold/entrances/stairSegments/Stronghold_Stair_Segment_2.nbt"
+hash = "2d88c97bcca69515a1a310e1ec43e72078c412147428e5574fbe8ce6f50f3fe5"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/boss/Stronghold_Boss_Room_Desert.nbt"
+hash = "f9e942f1d9200fc5c292e942da43aa0cd937da45215c2e2b5bb98cd24d07972e"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/boss/Stronghold_Boss_Room_Taiga.nbt"
+hash = "75c594ad7b0c26dcd1e048ef687b1593a4b230ec9bd01fe95374efe93b1f9b66"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/EN/Stronghold_Esat_North_1.nbt"
+hash = "8875dcc181e89ae9ab2c4c160e890bb3f560ac3f44f911279d61a376adbb258f"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/EN/Stronghold_Esat_North_2.nbt"
+hash = "9c3eb09c63cfe0aff798dd30ccdbc99044d31cf7de52bfd4e9e6ee7f532ca462"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/EN/Stronghold_Esat_North_3.nbt"
+hash = "917d3e2d752aaf7fab0084c426bcf399056e20bc4dc0e0ad936d7b1949cff21b"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/EN/Stronghold_Esat_North_4.nbt"
+hash = "4a23911c2a9894f6863e152836dbc56d099fc9a0d689d896271ee4c2b26abd79"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/ES/Stronghold_East_South_1.nbt"
+hash = "6b8690ae0d9dc2ab117e5967d712fd9c062f195d39debf303511c6e4f57b6be0"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/ES/Stronghold_East_South_2.nbt"
+hash = "aa9beac01d48560b7d794a7ea6f4c4e9e8c61f40c47a8c30010c7e4d508b783d"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/ES/Stronghold_East_South_3.nbt"
+hash = "493d64d368d5f5596b7a134da91ec85b12d109f8c30de4e3dee40707dda81eb8"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/ES/Stronghold_East_South_4.nbt"
+hash = "58ce4f8963d3a5de57bc008110819289a0b41cb5bd440ba126719cea824a7319"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/ES/Stronghold_East_South_5.nbt"
+hash = "6af0b40bf5912b1bf94878d81c467f348f9a5f256b48961fbf55c0d833de0847"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NE/Stronghold_North_East_1.nbt"
+hash = "9eef3e6221811a8708606f2f5795530367b5c3bc2d9dc89ac28baeae53fa059d"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NE/Stronghold_North_East_2.nbt"
+hash = "e5a1c3f204e050b4e04e59f70e042750fe53858b0307788bf89f560e7c8df884"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NE/Stronghold_North_East_3.nbt"
+hash = "6d06f37cef85e77a9e97b8e8b012b5144f6d0758684339270de3fe7c72f0b0a1"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NE/Stronghold_North_East_4.nbt"
+hash = "aeb8c72cfdffca2bc614a36097bf6b3d770b3bd5a06e29eb51947a0484b526bf"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NW/Stronghold_North_West_1.nbt"
+hash = "f32d0b8e738c5933750fe849f1d86d01bf0a016e69f387f25833bb3e1a8e15ff"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NW/Stronghold_North_West_2.nbt"
+hash = "eb1532a9c0d47e40892c971a6d0e6f60724e8b2d3d59368d9c2ac78249d98de9"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NW/Stronghold_North_West_3.nbt"
+hash = "fc0fee6083c28dc44296c2763615ea53a85cf2e1b4838f27c4ad76c5ce8dc541"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NW/Stronghold_North_West_4.nbt"
+hash = "70cd27beb986d966de1f65cc9d71de72afa2c2202a50de844569d8f58e6799b3"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/NW/Stronghold_North_West_5.nbt"
+hash = "875979005dfaeaf12e753de54de5df7b91d35e21f96f597c365070d5e97aeba0"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SE/Stronghold_South_East_1.nbt"
+hash = "85d5fe3e2b32e06d859ba7390fb5823701ef618da10eaf1a7fbd38839c062251"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SE/Stronghold_South_East_2.nbt"
+hash = "34aef4558ff3d2193d7881219fe7a93849ace54aafa367c3879c452d551aca20"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SE/Stronghold_South_East_3.nbt"
+hash = "8f40c826d2709ae0bc099fb8f6b275cae676044cecdaf51d267e2b30716c308c"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SE/Stronghold_South_East_4.nbt"
+hash = "611f82ebbf9f21e5d7e1c51db298a8f954192bf3b8994af83249996b7064cffb"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SE/Stronghold_South_East_5.nbt"
+hash = "d2977f06f481fc38dbc3f4371e6e00f82d6b0e4dcf13c7fdf567f1f1fde54402"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SE/Stronghold_South_East_6.nbt"
+hash = "56a469f51565c428bce293f86249a7e9433aef0a396ded3cd93abc9df7303229"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SW/Stronghold_South_West_1.nbt"
+hash = "608960261976e078df2d605a340565a26586bb8a3add886880dccfe8b3b702ba"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SW/Stronghold_South_West_2.nbt"
+hash = "9c7cd51eb9d342a74194766939aa99036b6f86ad17c16d729c647c6644bbc4d1"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SW/Stronghold_South_West_3.nbt"
+hash = "ddad77eab7a2504e4b7b72d6f87b3a20e0e5d08b914342db898807040baa6b00"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/SW/Stronghold_South_West_4.nbt"
+hash = "3ff462947a9355a653ab71197ec0ee629a70986cac267dd261295f775aec6c01"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WN/Stronghold_West_North_1.nbt"
+hash = "9b3d4d8e89bfb6d622d5d1e65390c535aa43b766aa1064333a60acf43a3efe44"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WN/Stronghold_West_North_2.nbt"
+hash = "ce862811631a5690325022490491d77337c4abb707c5918b581ea9144e67cb0a"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WN/Stronghold_West_North_3.nbt"
+hash = "f15e37ea0a02b90feca35e5d6dc4fb67716387617b7ebbba47ad19dea51a940e"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WN/Stronghold_West_North_4.nbt"
+hash = "8b18540671fe63eb4eaf663044a569a451f69c2f28395d983f3043a980845e37"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WS/Stronghold_West_South_1.nbt"
+hash = "1ab036ee8a7aba6d9d1e4078411961cfc3659cd7de912d9a6bae4a1c87a585e2"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WS/Stronghold_West_South_2.nbt"
+hash = "7659f92d332059af48ca51dd1d422c38b8b137f75f6539706f66f7084045c70a"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WS/Stronghold_West_South_3.nbt"
+hash = "ba9e435c6db3526e3464cc14c3868f38a1f2ab19e0df7990100c6f36503dc075"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/curves/WS/Stronghold_West_South_4.nbt"
+hash = "852e8d512f3e4b1abd220c6f8fb0c0cd528e4b953a8a5db44d22329efbcca78e"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_1.nbt"
+hash = "86c43614249c21267b68af07754888549c989b049c05174b23cd87536d7d6ac3"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_2.nbt"
+hash = "131555a33cc3a567a2e8a4219294a0c0bc31cf7b2ba124a4ec64612eb5519127"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_3.nbt"
+hash = "5e4e15fc7923f05a63456daeea5eaed6aa5035afb721b32409ff48370c4f36cf"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_4.nbt"
+hash = "525eff1ae2b5aadfce65f65ff0e383b9a5d6bb1de7096e13a53556b1f592e209"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_5.nbt"
+hash = "b00672f4b5995ca421041f54b32d14ec2d75228175c17fcfb3631e2a597222fd"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_6.nbt"
+hash = "34f4722bd93d01d18f04411098bbe3171f519f4f3e3821dc84b760ccd038ffc6"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/EW/Stronghold_East_West_7.nbt"
+hash = "9c0ea6683b7d64d434899dfd01fab0fbfbbbe0a2b20f46fc88f77cbb8697c8a8"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/NS/Stronghold_North_South_1.nbt"
+hash = "01054e9a5dfb439401b7f60c8ff6eb93b4379d6b854bfdbac90551105acbca77"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/NS/Stronghold_North_South_2.nbt"
+hash = "ea0d845506630093f82f0962e734c95ced049c77bf81958d09d011facb5e95a0"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/NS/Stronghold_North_South_3.nbt"
+hash = "8a7fc140832cd8f999f84919c111e269f6791a6fa52f7e563264706cf6f30f8c"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/NS/Stronghold_North_South_4.nbt"
+hash = "934c1c0da6824baf68cec18056fc7c17cef932a5dbb2bb5c8b37cf4dee67bffb"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/NS/Stronghold_North_South_5.nbt"
+hash = "873fea6a63af432fac8e49d38be1c014366d14058ae3b6f6fe3b4ad9c639727e"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/NS/Stronghold_North_South_6.nbt"
+hash = "ea228e40ea3dcc1cbe402f8dfdfc6fa2ae5669551d0677f4f1088397799396e1"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/SN/Stronghold_South_North_1.nbt"
+hash = "909f086c44b92fd80f50b51266b253c24eabfbe7908d365a5f38276c339260e8"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/SN/Stronghold_South_North_2.nbt"
+hash = "8595b589af8df3942ae856e87572d9c73ee16e3a40e31d1cebcdf3ec14775362"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/SN/Stronghold_South_North_3.nbt"
+hash = "440b624ccecb8c348ed4732f6d46fff3da434dd8af2fcecebc3515a51a69cafd"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/SN/Stronghold_South_North_4.nbt"
+hash = "42b214e77412285ea2b2a7c2c29c31be17655161e8bd3fc29ad6ceca4bf0469b"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/SN/Stronghold_South_North_5.nbt"
+hash = "d15a0a084b6847467c0ea11d52c00b351f2daea9cc9f609a2b6e187dbfdac3fe"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/SN/Stronghold_South_North_6.nbt"
+hash = "77566ff188466291911fc96b513293accecda8bf6a5a6e61ef4c69b4349d69d1"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/WE/Stronghold_West_East_1.nbt"
+hash = "a81c2ab6f828c1a97e3d709f6fee76099845b2809ca1d53617234a3d03da2053"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/WE/Stronghold_West_East_2.nbt"
+hash = "83cf017f5b0db41b81987590706f876b363fafafe5ba4fa35fcd2d7b550aeba5"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/WE/Stronghold_West_East_3.nbt"
+hash = "fa96806a421e45ddf12c37705f10261d7847b5890587f1f568ed6fa7fe74b9a8"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/WE/Stronghold_West_East_4.nbt"
+hash = "da7c902ee4d7906085efc97f4990f9cd2da9e22ad9f4c4fa6548d57500a48b06"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/WE/Stronghold_West_East_5.nbt"
+hash = "4a8ed0f98e8a06118ca3b825c0c1c02de38668d95d86b95c22f9cd14475da987"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/hallway/WE/Stronghold_West_East_6.nbt"
+hash = "04b156d61fe352b99cd55d4a5f588f4e8e40f05719683b695c053a0a23cae883"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/stairs/E/Stronghold_Stairs_East.nbt"
+hash = "51aa8885598c3adb309748d96f32fb33379783ca2564dd7dbb8a5288afc06507"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/stairs/N/Stronghold_Stairs_North.nbt"
+hash = "f97bfa934377dbad2bdb163d0d94b211cf4b9bf2b6470d050bc573ead0151aca"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/stairs/S/Stronghold_Stairs_South.nbt"
+hash = "c7bee0177d2d58cc7cd859d38e9a28588de63cba9640f262edb4aa1f2183adc2"
+
+[[files]]
+file = "config/CQR/structures/stronghold/normal/stairs/W/Stronghold_Stairs_West.nbt"
+hash = "84dd032a02bcc08dd4c751ea1456199580c1b7583b3db172b06b2f7e2c6b58fb"
+
+[[files]]
+file = "config/CQR/structures/taverns/Campsite-v4.nbt"
+hash = "1cd5c7bc764516c302aafb51eedc32ca8237bf3ff050aca3bb5be718f66681f5"
+
+[[files]]
+file = "config/CQR/structures/taverns/MasonryGuild.nbt"
+hash = "1b753a599fad09a38a082e574c02b07f278fc7c17fa02291143d2eb7d757ac9f"
+
+[[files]]
+file = "config/CQR/structures/taverns/Masonry_Guild_HotelV1.nbt"
+hash = "2cabf416169ab447689ac4243e44d767721774cabf8f932b0df77f8539e69370"
+
+[[files]]
+file = "config/CQR/structures/taverns/medium-tavern-2-v6.nbt"
+hash = "5894c78afcd127a64cdd23f7708b8ec762abf077d0d7a6c9b121246b5282288e"
+
+[[files]]
+file = "config/CQR/structures/taverns/tavern-small-1-v7.nbt"
+hash = "aab79d337d92f335f289d152dae724fa4780bfbc8979fb43e5459be36a69dccc"
+
+[[files]]
+file = "config/CQR/structures/test/Chest Config Test Structure.nbt"
+hash = "c80117878b7123c49af2a224a5c4fa0226f6b9238e7fbc12ff536e7df66723af"
+
+[[files]]
+file = "config/CQR/structures/test/test.nbt"
+hash = "730231cac10e3faeb19f6437b4ebad9ad98a8821c5f855941ed70c4472c23a28"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/boss/Volcano_Boss_Room1.nbt"
+hash = "9cdd3516c21b7e6150bb3ca367e2a7c8315d3806c304ccc4d24831a62a191976"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/boss/Volcano_Boss_Room2.nbt"
+hash = "c10b4decdaa7b999d28f5529d3c8b7a05819d8e9dc10901ddc1051b9d06153ef"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/EN/Volcano_East_North_1.nbt"
+hash = "e413bf4943ad2f24fc939c4f04c639096e0b25c5838258a885d378707857e395"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/EN/Volcano_East_North_2.nbt"
+hash = "243888b75f7dc179a9412b713d2ef92eae53f769bb90c60894674ee5dc94d9c8"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/EN/Volcano_East_North_3.nbt"
+hash = "5859d4107d0de2778971faea0d15543b7f691637dec747a733d947f3c8783aad"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/EN/Volcano_East_North_4.nbt"
+hash = "0ec5ed0a08b4c23988178f5642e624b7d11bc609dcc434d0211d0ca1c1637c3c"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/ES/Volcano_East_South_1.nbt"
+hash = "48fbd230521dc62a83e43f8083330824ba5bea7034d9e380fdf3e5aa9116d634"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/ES/Volcano_East_South_2.nbt"
+hash = "c3853f70ce2e6d9b86f1cda7b9b88c9c7bc5b786d8e4bf5738e0884608537a8b"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/ES/Volcano_East_South_3.nbt"
+hash = "1e41e7f6d34e5f972287baa745a9f2060f050405815968099ab44c7c6d52e9f4"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NE/Volcano_North_East_1.nbt"
+hash = "946f63b8420c652b7ed6a7ecfb3f4745e3d64a2cb04174034b330e03e28cbe74"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NE/Volcano_North_East_2.nbt"
+hash = "2c9daefd1163ce6f25e830c86ff985fb7772f04d995291225d290f5561f11564"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NE/Volcano_North_East_3.nbt"
+hash = "bcccd4f62eff264d1631aa2d5bf17877a865422e8e3d3573c8f06e150a58aff6"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NW/Volcano_North_West_2.nbt"
+hash = "48a22dd238994187ed842a0a8eb20233cbb55589e10d165cea2aa52fd9cc268f"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NW/Volcano_North_West_3.nbt"
+hash = "100aee6e8bd1968b27c8b1d3c3c1ea5fabed79a9568cbb5eeb4865eb81cc5375"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NW/Volcano_North_West_4.nbt"
+hash = "f44495b19b8b3508be92cfbbc8c51de2af73bacfc672a555b5a882faaac808a1"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/NW/volcano_North_West_1.nbt"
+hash = "56ef2475226d63ced1ecb016dec0af2a19265ebd84b63fc42e88ce5b55412c0b"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/SE/Volcano_South_East_1.nbt"
+hash = "80b2b65095b08af171a719e7efe8d58ca2d5fb3e5cd477d5593c2e8a9078435d"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/SE/Volcano_South_East_2.nbt"
+hash = "f8105e22ad1087e71a0b9ef448aacb61c0aeefaebb0b0294c02f10685f4fccd0"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/SE/Volcano_South_East_3.nbt"
+hash = "aed993f36d830b0a89d79a33bb5a860af3275f414150faa3533c8f64961fde0a"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/SW/Volcano_South_West_1.nbt"
+hash = "6ff0b5cbbc5c44011e026f598703bb09a4296313a320ee2b216e094cb3ed4e40"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/SW/Volcano_South_West_2.nbt"
+hash = "ca142c0ed3b28b7aad6725900ea54561c7b2be1bbba71fc9ff5599ca949e3c48"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/SW/Volcano_South_West_3.nbt"
+hash = "1364d7ee2768247b6e881c7252716d86db7c726c02b2ceb21f6bd0245d4e4d67"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WN/Volcano_West_North_1.nbt"
+hash = "2d33b3956d8017c48626242b49640615241552df304ec2e1ff907a1f4cfe5a7b"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WN/Volcano_West_North_2.nbt"
+hash = "61aa6e9a03a2268bbc8ea2511a2735f97d723054b700695b9fc64d7a15ee70c4"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WN/Volcano_West_North_3.nbt"
+hash = "efe06af6a32fe68b44eb1e793806f3c5996135df107de58f863771c469e30f8f"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WS/Volcano_West_South_1.nbt"
+hash = "f38dc66f8db4ffdeba2b47a9d31e9dec5aa94e599f67c4457f769b1b4d573489"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WS/Volcano_West_South_2.nbt"
+hash = "e7183e10a282357a472fefc813ccc04477d87b4970fd2225280d9504b989eb7d"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WS/Volcano_West_South_3.nbt"
+hash = "cf20d4ddc7ff36243fb5e4919bc59229df670e2be1265c25c4f9725df42bf266"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/curves/WS/Volcano_West_South_4.nbt"
+hash = "e2366e117ecf9cdc38d521689cc1e6e878c406c7794ecd1df754f2261bea887b"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/EW/Volcano_Hallway_East_West_1.nbt"
+hash = "daa40ae14e3b5d1c6875510874dee663681f0a14a2c93ca12b00ae03a403c6f9"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/EW/Volcano_Hallway_East_West_2.nbt"
+hash = "3fa4a1975ac601329819bfd3736435f78ceb1c765c32a37d3cee49dea498b049"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/EW/Volcano_Hallway_East_West_3.nbt"
+hash = "73d66b4affc968bb3b140354be67097190d988abdc112346aca57d9479365fa8"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/EW/Volcano_Hallway_East_West_4.nbt"
+hash = "316b03b1872582efa135903b63521a892b153c3c58988b18276dd408e00ed758"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/NS/Volcano_Hallway_North_South_1.nbt"
+hash = "7a277926ebbd62abd29b0b0265658d404b75ae225e1af1e064e8d5c31cd4f8cb"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/NS/Volcano_Hallway_North_South_2.nbt"
+hash = "10b4cbae30402357110a3ef7bd3494b114d4f89cdb0a14ba9b1375d87b01e0ed"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/NS/Volcano_Hallway_North_South_3.nbt"
+hash = "1b6c4f7500103e9148655df6eeb1487ee3a11998b3833779ef3ee4136e3696c1"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/NS/Volcano_Hallway_North_South_4.nbt"
+hash = "93f4f4b286422cb4ee2c4410faa9436f204483f9a79b8e98ac192f4112aca296"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/SN/Volcano_Hallway_South_North_1.nbt"
+hash = "d1a4f2a3b2a10b8628152d3acae22603955de61f10a61c044f8ac338a7fcc703"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/SN/Volcano_Hallway_South_North_2.nbt"
+hash = "c4dcf3bdc9b6b8fbe51a03b1c3abeb7335ba4852d17dafeded76ad390968986c"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/SN/Volcano_Hallway_South_North_3.nbt"
+hash = "6b46060557934b5c062b63a872ccaf6f9e81d1de51a15f134f91561364d2ded0"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/SN/Volcano_Hallway_South_North_4.nbt"
+hash = "b862d43264d8e3645f76f1a028a62182eca48c09eba61cdd0c2c2098cb4f3294"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/WE/Volcano_Hallway_West_East_1.nbt"
+hash = "ea59b8dda8214ead4a7ae076165edb60dbef9c0f1ec86923ff7dfadd3cc4ca08"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/WE/Volcano_Hallway_West_East_2.nbt"
+hash = "9584332fe0e7e42b79d54847b5b7be09a2db37a8b66267f70adebc4e0f715b5b"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/WE/Volcano_Hallway_West_East_3.nbt"
+hash = "f229747009d47d5bbd2b94b3befe509219f60a633b782544e0cf5b4b47c50269"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/hallway/WE/Volcano_Hallway_West_East_4.nbt"
+hash = "49e5564c42cd4a7f33c3c414cd4e624315d83b1621a33eeca3de2a8925eff3e5"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/stairs/E/Volcano_Stairs_East.nbt"
+hash = "a1548b9b58afc5d89f26997fee73d3ef56eda30082c1efde975f7a132fe70362"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/stairs/N/Volcano_Stairs_North.nbt"
+hash = "2d2429c648869e8794865e239e3122e6f161f6536bda42be8e5070cd1acda1fa"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/stairs/S/volcano_Stairs_South.nbt"
+hash = "306e1266fde009ce5ff00eaa114271c825e819525e86079df17bfa11eeabee65"
+
+[[files]]
+file = "config/CQR/structures/volcano/rooms/stairs/W/Volcano_Stairs_West.nbt"
+hash = "eb477936e2e00ecf3fcadaafed06ffc344c2d8e15c9b69650d7238e857d48b5a"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/enderman_1.png"
+hash = "fd6c338fd047cb4e8f694a293427e08bce9fd30de36e9ab65b12d28bc08f5e58"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/enderman_1.png.mcmeta"
+hash = "03b0539d2389c8d223b34e600ca87e39e2a30b36a6494a5517be27e6e082f430"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/illager_1.png"
+hash = "5df6331880edebe5abb2a7d81e73de8cec0adcfe967e26a9e4b866a9ede38d07"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/illager_2.png"
+hash = "475da6d9bd2302bc9b42089f6da6d228a2697b26529bdbd212513c546b3a4bf9"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/pirate_1.png"
+hash = "a0dd6dd41b1c5a25d02bbaa5fb73ed43156d36eae6f954141c55fcefb4bafc3b"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/walker_1.png"
+hash = "a9987ebbd8f3aede5e1846e551b485527159ff5772aa677ced3dbf2d3180edee"
+
+[[files]]
+file = "config/CQR/textures/sync/npc/tavern/walker_1.png.mcmeta"
+hash = "d51230e5184a5f1ef2681fe6d225789fc4d2168636e1165c640c915d333db8b4"
+
+[[files]]
+file = "config/CQR/textures/texture_sets/TavernTS.properties"
+hash = "f3aa91c31c33f69d08abbc7034f9e50ad84350bc7398dc37be8a666a7ec0ca68"
+
+[[files]]
+file = "config/CQR/textures/texture_sets/textureSetPreset.properties"
+hash = "9d067e094d0a6b2eb950c1e2b7ac3b431a50e429f27cc5a03b14975a9331be7d"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/messalini.png"
+hash = "d9ab1458312d364442ab44fc6b8f8b4db155db0dd4717aebc753611b260762dd"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/enderman_1.png"
+hash = "fd6c338fd047cb4e8f694a293427e08bce9fd30de36e9ab65b12d28bc08f5e58"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/enderman_1.png.mcmeta"
+hash = "03b0539d2389c8d223b34e600ca87e39e2a30b36a6494a5517be27e6e082f430"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/illager_1.png"
+hash = "5df6331880edebe5abb2a7d81e73de8cec0adcfe967e26a9e4b866a9ede38d07"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/illager_2.png"
+hash = "475da6d9bd2302bc9b42089f6da6d228a2697b26529bdbd212513c546b3a4bf9"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/pirate_1.png"
+hash = "a0dd6dd41b1c5a25d02bbaa5fb73ed43156d36eae6f954141c55fcefb4bafc3b"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/walker_1.png"
+hash = "a9987ebbd8f3aede5e1846e551b485527159ff5772aa677ced3dbf2d3180edee"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/tavern/walker_1.png.mcmeta"
+hash = "d51230e5184a5f1ef2681fe6d225789fc4d2168636e1165c640c915d333db8b4"
+
+[[files]]
+file = "config/CQR/textures/textures/npc/toaster.png"
+hash = "3b3c76e24a003511e02901f23e02ebb0cc8306981d8d1bebb378d62e69edf255"
+
+[[files]]
+file = "config/CustomMainMenu/mainmenu.json"
+hash = "9ce8966a18cacdc720b2262f7b7123f77b7bc7c0dd1381d186ae3607cf39723e"
+
+[[files]]
+file = "config/Galacticraft/MicdoodleCore.cfg"
+hash = "4223c3c9585db40818af46bcededfddcbdaf3df48ee15b9aad0d5d1a271770fd"
+
+[[files]]
+file = "config/Galacticraft/chunkloading.cfg"
+hash = "3f9f75228eaf2061f7a161849196f3721289e686ad4f9e58812fc6b8ba119543"
+
+[[files]]
+file = "config/Galacticraft/core.cfg"
+hash = "4e837966e0c6b4081267a6cbf8896d499ec060bdd3976731633de70d62592a16"
+
+[[files]]
+file = "config/Galacticraft/energy.cfg"
+hash = "801c092c760d313494764eec07763cfc707db2e863893b34b5fb4d0c60a11da2"
+
+[[files]]
+file = "config/Galacticraft/planets.cfg"
+hash = "cb7089ea048559100bda4de8baa921194040fb69138642958e956ed88664f5ad"
+
+[[files]]
+file = "config/IC2.ini"
+hash = "869ced2bfca6d1afbf11d0c0623414fbce5d3486a5c048e595f1b4709551e0de"
+
+[[files]]
+file = "config/InvTweaks/InvTweaks.cfg"
+hash = "d4087ea0ec3c0d4c28bbecb8ecb90a7191194e4edcb91e90579d988943b6660a"
+
+[[files]]
+file = "config/InvTweaks/InvTweaksRules.txt"
+hash = "b63870bb7b08cb7edb1189dd929ae802a8e7a6857ede3d92055038a5c617bb22"
+
+[[files]]
+file = "config/InvTweaks/InvTweaksTree.txt"
+hash = "99b8156469745911380cb8329042da1964cdbd4fadb7e541f42d2906e5248b08"
+
+[[files]]
+file = "config/InvTweaks/trees/readme.txt"
+hash = "31ae7c835eb7771ce79cda4fadfe7d80b2858177bbbf250822695b39ae091f5d"
+
+[[files]]
+file = "config/LogisticsPipes.cfg"
+hash = "9b18936ef89ac3d45f0c1cc16a4aa57d68358f22a7c9767a9e5f1aa5eecb413c"
+
+[[files]]
+file = "config/MrTJPCore.cfg"
+hash = "ec37a9f555ecdf0c4e0c4f004a0b7fc034c145e6bb1b10917f36875c126131c1"
+
+[[files]]
+file = "config/OpenModsLibCore.json"
+hash = "8e9cff5f3097c2f1068ead8c8da6038f9be200026a299d23b36a178db0de7c64"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "1aecc294f04e8411164cbf5e1afefa5026e1d2ac46fda8e8c0cfeb0263e31485"
+
+[[files]]
+file = "config/ProjectRedRelocation.cfg"
+hash = "0bf6f3ba8ecb7311e9f0782758aef5c94b6aa21cf2623c28193dbc99418bbd33"
+
+[[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "8bba1b0808b54bd62927a7b60208ef21f9269612424844500fc7479d8e7a7f23"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "6bde7fd15d8d1383a8d903a83c707d19436342f80adb08dfd1a89748092580e4"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "81ac490d258296e8c2d4bd4360c88897ff9f389d47df2025294450fe69414b64"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "001aaff53ca200c1997e2a4ec0492d22473c34a52d4697d9646376a15c69a1fa"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "45528f6913c7ff869aaed02c385e33142bba645bd97633125a01ccfd64412ffb"
+
+[[files]]
+file = "config/additionalpipes.cfg"
+hash = "2d03a6d58ff80b54ecc69a8541a156bfc7f75e9cddd93eea080aa6fb83edd7cc"
+
+[[files]]
+file = "config/aether-dimension/biomes.txt"
+hash = "44788236bff15c56c1735db90ffb909907b58c5eeb75865dc5ca4d5e10b39e33"
+
+[[files]]
+file = "config/aether_legacy.cfg"
+hash = "c8a301341dc5258f4cb96eaee1558f26dcc07d600450a2fb81fc7393c308be69"
+
+[[files]]
+file = "config/appleskin.cfg"
+hash = "3db18929798bc16d0af30df80c2e5753a9622c8232858806cbe500a8c5e25bea"
+
+[[files]]
+file = "config/baubles.cfg"
+hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
+
+[[files]]
+file = "config/bcfe.cfg"
+hash = "6c40464fc8e2e89702f1c58f1397d69bef38852dde044b14ce956a3725bfe911"
+
+[[files]]
+file = "config/buildcraft/detailed.properties"
+hash = "37a8d565cfa9411aa8c2e4e0262905f7292929a04b37c34e32c7960340c1fd4d"
+
+[[files]]
+file = "config/buildcraft/gui.json"
+hash = "5d2aaf366378362c2a9311601c5b29b133b2808b335e55fb380f412af9e3570b"
+
+[[files]]
+file = "config/buildcraft/main.cfg"
+hash = "5bb3bbaa2ca00421738a209ea5f79bf81d994ab33d9f40dda53015e20a06b956"
+
+[[files]]
+file = "config/buildcraft/objects.cfg"
+hash = "0579744e5f1ebd91c26b671cdd05d5797e27782f629754da61e657112a41fcad"
+
+[[files]]
+file = "config/cableflux.cfg"
+hash = "5e4150a0d50cc4fd08d25abfac29b66dd1a91ee4e36b3a79e794b0dfef5a9e7a"
+
+[[files]]
+file = "config/camera.cfg"
+hash = "5cba1d01fc56efc4c18201f4569ef3970492f8b006a3874b6ed170b8e07bcfa5"
+
+[[files]]
+file = "config/car/car.json"
+hash = "43f8a8d6051caca6bee2447fb90109fd52d01c0199e728fd0e9a01e746b4202b"
+
+[[files]]
+file = "config/car/fuel_station.json"
+hash = "bd4ad43a33bb579e5197120d5f677a93b5a31bc7bfcac3f2c232927677cb884a"
+
+[[files]]
+file = "config/car/generator.json"
+hash = "3b5614604670a4dff49ecbf9dc8d2ab60fa964c22d2dc7d3d760587a8c84f433"
+
+[[files]]
+file = "config/car/main.cfg"
+hash = "2908e979693fd2a605129c47551378d30a909efe35fdd9455f7f03389ca9b763"
+
+[[files]]
+file = "config/cfm.cfg"
+hash = "71456e3b30d2d3621e58d36f4f9c50db975553a08b3e31511557e12c8a369102"
+
+[[files]]
+file = "config/chesttransporter.cfg"
+hash = "a20ff05485a9c5e190da3b740b721ecabaf32264d41741a9e09d1c6f19733bf9"
+
+[[files]]
+file = "config/chisel.cfg"
+hash = "9942e8e7cac1c56242efea389b4afb2970a9c6d62b252fc64624423463afe938"
+
+[[files]]
+file = "config/chunkloaders-common.toml"
+hash = "eb62dfa3c0b52eb240bcc7a5b50ffbf4d0ff7bdae2fe94fec5f44ab0feeff9c2"
+
+[[files]]
+file = "config/codechicken/supporters.json"
+hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
+
+[[files]]
+file = "config/codechicken/supporters.marker"
+hash = "0f1f1247443b73c108b5622a111be93725fb256514688bd2ac4e311a61712968"
+
+[[files]]
+file = "config/codechickenlib.cfg"
+hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
+
+[[files]]
+file = "config/cofh/core/client.cfg"
+hash = "b760ba088ac2f391c16c7c98351b4af14a48fe01bc591c40401cf4d9b8519cdd"
+
+[[files]]
+file = "config/cofh/core/common.cfg"
+hash = "d28bf83a7ee4d1a9e3ee4300faae0be4fae16256c0dcc505f317dc3cc3558911"
+
+[[files]]
+file = "config/cofh/core/friends.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/cofh/thermaldynamics/client.cfg"
+hash = "d65d2d91bb9d86176375da4368c74d1ffae30a368a4592b430de4687a5f00733"
+
+[[files]]
+file = "config/cofh/thermaldynamics/common.cfg"
+hash = "c297275b538da1e0c1033e3c5d85e03f3da4d57d6a58790653569e59a2ff3218"
+
+[[files]]
+file = "config/cofh/thermaldynamics/cover_blacklist.json"
+hash = "4bea0304342029262d27286d6089165d091f147809c93edd7a8ba986e2584fdf"
+
+[[files]]
+file = "config/cofh/thermalexpansion/client.cfg"
+hash = "1701b932f99f5653e6b5986137e21bfbe7231f783892606ee8ee043427156748"
+
+[[files]]
+file = "config/cofh/thermalexpansion/common.cfg"
+hash = "3cfcda628799af896584e6b63ce9b7975fcaa51fbf0810250140017b695f38ee"
+
+[[files]]
+file = "config/cofh/thermalexpansion/florbs.cfg"
+hash = "555d598ec13ed39667504a65e159b7d15ee503dcbd3224d17ada4631cd30c32f"
+
+[[files]]
+file = "config/cofh/thermalexpansion/morbs.cfg"
+hash = "3c471283ed93620e7eb7e67cbe1a25ae55f078cdffbd0abfbabcdc314865b43e"
+
+[[files]]
+file = "config/cofh/thermalfoundation/client.cfg"
+hash = "0033114233ce613c785abf4fbe00cb64bfb416665f2c0838a5271ce421ea3e28"
+
+[[files]]
+file = "config/cofh/thermalfoundation/common.cfg"
+hash = "17795d7299ce9aabaf651d23308c889d3edede76cc4b53db49b4699fcfe03bdf"
+
+[[files]]
+file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
+hash = "4851e524f39a757b72ae0204d1b7207763a89033a8f5145385debc86bcf33606"
+
+[[files]]
+file = "config/cofh/world/00_minecraft.json"
+hash = "cba133ba6ce78679471b1d29260c126f5b3d357d751f3b3ff73d9fc1790f8130"
+
+[[files]]
+file = "config/cofh/world/01_t2_gems.json"
+hash = "342c1601564e6ab21e3fb68bfc4cee55d932cb683ff5996f7839fb478dfb7751"
+
+[[files]]
+file = "config/cofh/world/01_thermalfoundation_ores.json"
+hash = "80c8cbe1d588e8f79da554050f3c20cfa69ff93ab278691c4aa1a90ffa2c935c"
+
+[[files]]
+file = "config/cofh/world/02_t2_nether_ores.json"
+hash = "29bd56113763d6003b74a743d55fcdcac566dbac3d48cb25966732838fb11c45"
+
+[[files]]
+file = "config/cofh/world/02_thermalfoundation_oil.json"
+hash = "4de8460e4846527c3c4c947e6156bdd640055a0a34ffef6f37955dafca8654fe"
+
+[[files]]
+file = "config/cofh/world/03_thermalfoundation_clathrates.json"
+hash = "59b06d7a6362e0937c63cb7716cdf043ff84fcd945b3536293efb6e0c1b8fa0d"
+
+[[files]]
+file = "config/cofh/world/config.cfg"
+hash = "7cd72fb3b8cae95058e33b07656982c34769122975e0208d38f163e01d32bf02"
+
+[[files]]
+file = "config/computercraft.cfg"
+hash = "f5110b952c745c9e310afb9a59e6d2d6ea3913e268ba86ef3c9c866d1d155997"
+
+[[files]]
+file = "config/ctm.cfg"
+hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
+
+[[files]]
+file = "config/customjukeboxdiscs-client.cfg"
+hash = "cb274bb8e0635daddcfaf7464c5889dc4d2a72cc5246b873d648e23db3706060"
+
+[[files]]
+file = "config/customjukeboxdiscs-server.cfg"
+hash = "cdb5193ae3d2fc46f722453296a3bdc2bc7969eef7493b06944764beddf6ef75"
+
+[[files]]
+file = "config/decocraft.cfg"
+hash = "022135c8cb6fc078fb5764097c05a08a4234677b770910231d4c62116a809cd9"
+
+[[files]]
+file = "config/dimdoors.cfg"
+hash = "ff68032f6b83d618feb354f31a598f51c93fc407c9ccc0147506a8f3c37dcf99"
+
+[[files]]
+file = "config/dungeonsmod-final.cfg"
+hash = "665d519c4ef695e09b2a5405070d3d1aa0c859e5195408bd25d35f428e8b485c"
+
+[[files]]
+file = "config/endertanks.cfg"
+hash = "8e581879546831f42947215345f8fe47db6d509867e2b8975943c110f952b69c"
+
+[[files]]
+file = "config/energycontrol.cfg"
+hash = "868a2a979a63034b05592635d88adf2844c2b760fb09c815ad74be4d5d06199e"
+
+[[files]]
+file = "config/energyconverters.cfg"
+hash = "ef436247ac746091e1b8387e525a956154f5ef496e0116e14fffe663dd5f423e"
+
+[[files]]
+file = "config/farmersdelight.cfg"
+hash = "898214ee16b2d5aa141438d0f5a7a0d4d631bfde215fccd0a75a34a018a78867"
+
+[[files]]
+file = "config/flansmod.cfg"
+hash = "c907313674ece08663ab3b907a15710545a0befceeb7253053de1375e975f352"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "cccdea48d5b1029363ba61b162217653a11b54bf9be160134653b54fc24379aa"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "87fcc7bf86a4dc62ce30b79923b51e61cdde2951fa477029c909e100936f71e5"
+
+[[files]]
+file = "config/gravestone.cfg"
+hash = "62956483add2ecac20614e1ac1b43fb0d2f68098bde6f69473af981701d422ae"
+
+[[files]]
+file = "config/hammercore.cfg"
+hash = "f7e42c229c1301c6e1830b14de07a84175f582f749289102473eec307dee1200"
+
+[[files]]
+file = "config/hammercore/tile_entity_tick_slip.json"
+hash = "eff4c2594988239af664a5731ed8dbaea89285d478117e4c417d369d98c60c2c"
+
+[[files]]
+file = "config/hanfmod.cfg"
+hash = "0d214f25bacd06493faffc2aa6c2f7fb4e33a4ea918324c45d2a6a843fb5107b"
+
+[[files]]
+file = "config/harvestcraft.cfg"
+hash = "a4d6b04caba98f0846203f73e98d5e76f1ee3dbb66c41669e40cbd0933f71394"
+
+[[files]]
+file = "config/harvestcraft_fruittree.cfg"
+hash = "0f687fc8cc9abe1528497a0454cc6fd715c0f62cf0591d7df1d6346e6ee371bb"
+
+[[files]]
+file = "config/ic2/advancedsolars.cfg"
+hash = "d4458a16cc50036159aba24c48847661c4f407871fd277ef22212594cd9037ba"
+
+[[files]]
+file = "config/ic2/customCraftingRecipes.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/ic2/customMachineRecipes.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/ic2/ic2.cfg"
+hash = "ebca91cb5f121a01373604f18f3d1c5585e4296740908c26f50b1152ad39b48e"
+
+[[files]]
+file = "config/ic2/ic2craftingRecipes.json"
+hash = "8f84c833c7f5aef4bf50685a2ee5940bb3d077b0e2fbb3708f1f63713e8debf6"
+
+[[files]]
+file = "config/ic2/ic2machineRecipes.json"
+hash = "405007aecda83ab7ebf50f92a9cd7e0cf48a998f901ea8b5159a76438472edc0"
+
+[[files]]
+file = "config/industrialforegoing.cfg"
+hash = "20876b800446ab6c9762d8e94cf4dbac9c31e7a252ec954dc8647051a8a96595"
+
+[[files]]
+file = "config/ironchest.cfg"
+hash = "2fe6d0923e0511d1f4fc2020ae3f3fe45583390cd8c35752e1a811f517ce2e71"
+
+[[files]]
+file = "config/irontanks.cfg"
+hash = "3208558877921ffd7ec25a12ae7aeec0ffd8bdedb0c4c89d71bb7965489b41e7"
+
+[[files]]
+file = "config/jei/itemBlacklist.cfg"
+hash = "5874e5f3bdd2c081d0a7468089d08c0c3030b0a705bdd4dab997099d84733f15"
+
+[[files]]
+file = "config/jei/jei.cfg"
+hash = "bcce646971123c3fd306e130d654c63649314d7ca00486deb8be41654bd5c1f8"
+
+[[files]]
+file = "config/jei/searchColors.cfg"
+hash = "1a118e203ed46a4c85ea6f5cc560b2ab4330423ceebfef14f893540934882422"
+
+[[files]]
+file = "config/jei/worldSettings.cfg"
+hash = "c0f897b7090037eaedd8df3b13f9c0a1993877dd35f7fe445242f0d16e4bf961"
+
+[[files]]
+file = "config/jeiintegration.cfg"
+hash = "97450a1d017a7cce413043c8facd7262532439077f12acc0bc3b3cab6dc07b0d"
+
+[[files]]
+file = "config/jeresources/jeresources.cfg"
+hash = "047cd00d92a1f69ee1f857cc7bb1a5d08a40cbdf81ddee8dc8a8fd00d5ce89d2"
+
+[[files]]
+file = "config/laser_drill_ores/default_ores.json"
+hash = "29030f50114fa9b7f5c2c134c41d4c186f592898827bfbd9dcdfe8323815c5ab"
+
+[[files]]
+file = "config/mia/aether.cfg"
+hash = "a4a04631717479b1ba05d4484d3991e9445f6c8ef6cf62439824ae5d8aa05054"
+
+[[files]]
+file = "config/mia/base.cfg"
+hash = "9d46e5909bcc31143542b83141dff094da4e5eb9f1bf5fd712291b3ee2b4a42a"
+
+[[files]]
+file = "config/mia/base_additions.cfg"
+hash = "dedf8d6ae0f87a194c5d9637b89c7c094aa3d5ee1e75cdd8e1142ccffba7b312"
+
+[[files]]
+file = "config/mia/biomes_o_plenty.cfg"
+hash = "71ed59ec3bfc4c10c5b4a1bc3422587054b731ed5313daeae21f9b139fdfa67e"
+
+[[files]]
+file = "config/mia/botania.cfg"
+hash = "a403d96b85a56478a11894a0e6253ccfb25c74c6286f23af9925e76ce4876e6d"
+
+[[files]]
+file = "config/mia/charm.cfg"
+hash = "3398bd2cf3a1f8c470e79c7b502e5c1b17a2870832d5e0c7189a9a2a0d2e980f"
+
+[[files]]
+file = "config/mia/chisel.cfg"
+hash = "528ca83f2bc11098f4cbcc5af74e36a2e10c783a11cb648e9065cfa38d63547d"
+
+[[files]]
+file = "config/mia/cofh_core.cfg"
+hash = "6618470a0fa372b25b920e00abb97ed638e330b6af10d75b9c1ed8d76cac105d"
+
+[[files]]
+file = "config/mia/dungeon_tactics.cfg"
+hash = "26dd13a13abc9aa1a34710296d54bf87c70be1d28362049939cae77a601f3bb5"
+
+[[files]]
+file = "config/mia/ender_io.cfg"
+hash = "9f89ca0268bdd454cd62b534a14d44fd9c909af07c6fd2b40155e4fb8f730981"
+
+[[files]]
+file = "config/mia/extrabotany.cfg"
+hash = "d774317e054112364dc1d0184a4eb4453d62e8ef08e4522b4131afc716ca4e92"
+
+[[files]]
+file = "config/mia/future_mc.cfg"
+hash = "0cc833043060721a84e68d513ce91d2d9876d9bed0412c28d6a13e8c55d433ac"
+
+[[files]]
+file = "config/mia/harvestcraft.cfg"
+hash = "3f39ff1fe4a6ea82da3b1a3a57c56c8c02be6852c6e0e1535670222fc20522ac"
+
+[[files]]
+file = "config/mia/hatchery.cfg"
+hash = "7f50815f95e56d60145cb86d6e2222d03347a50c4411b588e6c3463a527adcdc"
+
+[[files]]
+file = "config/mia/iceandfire.cfg"
+hash = "74989a72c09f88014ba35d0bd4959be02fa14e29ea72744f52dde38fdb0378c3"
+
+[[files]]
+file = "config/mia/industrial_foregoing.cfg"
+hash = "3170f3cc7f0f2b9f9bcd1478b3eb832dd59c2196b846b920284f220d791b8cad"
+
+[[files]]
+file = "config/mia/jei.cfg"
+hash = "3a5f164aba65d15f454d3d46a680a8ad2f23a2bfd2f5a324a3e553c6610b76c6"
+
+[[files]]
+file = "config/mia/jer.cfg"
+hash = "e5d876f6fc160be608dae3a0727de9adb9e79761d47115170735e0afcb0f0e07"
+
+[[files]]
+file = "config/mia/mocreatures.cfg"
+hash = "a9a109c9486fa734242258ef35e0b4f979b2ec12e8780105c1820f3a3c5b8768"
+
+[[files]]
+file = "config/mia/natura.cfg"
+hash = "d10c7d234f319d36493bf0bf705e98437fef2fa404dd4fe9ebe2789496d8caa3"
+
+[[files]]
+file = "config/mia/quark.cfg"
+hash = "0dbe092c191ef8e5937bb776d1cfa2221b6237057ad2c124b5506829b25fffb3"
+
+[[files]]
+file = "config/mia/tconstruct.cfg"
+hash = "34b1957bf79f488a5427e2dd67609c1d7dc67773fd4f61e94c3f9c62a2920c0b"
+
+[[files]]
+file = "config/mia/thaumcraft.cfg"
+hash = "2d3c5d9f22f761e9130cc4bd1855dbce6fe3d005d5c0eff3afef17d2e65aa728"
+
+[[files]]
+file = "config/mia/thermalexpansion.cfg"
+hash = "39b9ec041860bf4455685d372dc890ffb48861aaf159734be9e5d7e48b799742"
+
+[[files]]
+file = "config/mia/thermalfoundation.cfg"
+hash = "df161899ee83ae01bacdc6ec70a394da0334d92d3fb7240f7d8d3929c7f01aa1"
+
+[[files]]
+file = "config/mia/xu2.cfg"
+hash = "3f0c62c6e397591185b2b34f2a9472c4b2afcd779e9bbcd4cbfb08b8b22721cc"
+
+[[files]]
+file = "config/microblocks.cfg"
+hash = "2fb7bd6ae3d592927f258557ee24dcf382dfc6d72225f8d3093e757ceb847740"
+
+[[files]]
+file = "config/minieffects.cfg"
+hash = "ba0805b87988ce4d33318457babbe7987c79cb8525b6755e6855b65c1359bb7d"
+
+[[files]]
+file = "config/mixinbooter.cfg"
+hash = "abd020e9b56dda3c0018969b0dac9c32beb580697a730e0448cac664b22340a5"
+
+[[files]]
+file = "config/morpheus.cfg"
+hash = "6bd7a08d6d3565eefdb40def57c15f8840846d0947e5bd3af4ba87d55dda7a8a"
+
+[[files]]
+file = "config/morphtool.cfg"
+hash = "dfe8abb1e1203339d98e9e69207f742fa7b44c6c4c29bc702a70b792971e068f"
+
+[[files]]
+file = "config/movingelevators-common.toml"
+hash = "08ab02cdf46632d0185786e037f1ec96d9b7725aaac1f110144eddb94089a1eb"
+
+[[files]]
+file = "config/multipart.cfg"
+hash = "cc6a5f19afb365f55ebaf05e46b6dcc56aa47b4b286973b727ae3514b92d6635"
+
+[[files]]
+file = "config/naturescompass.cfg"
+hash = "775e84e5fcc57c495eb3aec4abf820e88d4c5d343cb9922c2e7dc75418833329"
+
+[[files]]
+file = "config/nothirium.cfg"
+hash = "45fd7f83fe3a256647bd63b6a81f15dc7a6812d172d31a383994723293b70903"
+
+[[files]]
+file = "config/openblocks-reopened.mixin.properties"
+hash = "4671192cfb2acafdb4589ebaee2b7995c4fdf5203f7c1c57068c3eb305d848eb"
+
+[[files]]
+file = "config/openblocks.cfg"
+hash = "06c90056d0d61bed9f40761e2ead429a9306ab439ee05928810ca1dff0772824"
+
+[[files]]
+file = "config/openmods.cfg"
+hash = "ebda56eecf4c4f61180a21b71b9db3a8e12df96f498f83e3590dda07b5ceaf70"
+
+[[files]]
+file = "config/particleculling.cfg"
+hash = "9340892a0a34ef86aa36974b4680d24c4db3e1ec87a5c7e372398992f21a8844"
+
+[[files]]
+file = "config/patchouli.cfg"
+hash = "bb3aeacdd93f01a07d3b1ad459399e5d3bb0c96eb3c5cf078fbb519a09d7c81f"
+
+[[files]]
+file = "config/personalcars.cfg"
+hash = "f193a111543340b5de8797bac9cee1a754cfcbd72e2b77bc74ad3f9e51b31326"
+
+[[files]]
+file = "config/polymorph_plus_client.json"
+hash = "c2807871eba913ec19ee7d34765a2a57fa5b40ece2c3a8677c84330acaa89f08"
+
+[[files]]
+file = "config/ptrmodellib.cfg"
+hash = "dceb887f6cdfb081b16247637230e418bc9d8271e3d993f8780f7270778b3ba3"
+
+[[files]]
+file = "config/quark.cfg"
+hash = "64980c0dff3b6e0a0e2824f7f4805925d2f86116965deb5d70ddbead51d87754"
+
+[[files]]
+file = "config/randompatches.cfg"
+hash = "91633c2f5185fdd6cccb1a081f6c3525585aefc7d6af2b96362bea8a34f2a766"
+
+[[files]]
+file = "config/reachfix.cfg"
+hash = "6388a7364e982bbf5f7e0d91faf12763d1f2e0e82c4516d100525480bfb4c055"
+
+[[files]]
+file = "config/recipehandler.cfg"
+hash = "fb441418f25f66d4b0ad91dfbad773f1f9ab14bfd53e78bf13fa0a68269118ee"
+
+[[files]]
+file = "config/renderlib.cfg"
+hash = "cab10f7c6f34765c8c82844df540940f0b9609d5201b92ba7f77d3002444bde3"
+
+[[files]]
+file = "config/rpintegration.cfg"
+hash = "e568e0894129a43c7d70f2a3679a090699136c8bce5311a93480d50a16aca2fd"
+
+[[files]]
+file = "config/shetiphiancore.cfg"
+hash = "11bfc5566ffe29d45dc4d4039709083e87113b29159947d7dbc7fd94c41be61d"
+
+[[files]]
+file = "config/sledgehammer.conf"
+hash = "63f4ce1581cd0d7a1a498b874ea9263832b910f5ef6ef1b0bdfd6edd450cf54a"
+
+[[files]]
+file = "config/splash.properties"
+hash = "53495b0fd7e6fe76d86d256e878798f03cfc82959787f01126fb81428cef6c02"
+
+[[files]]
+file = "config/teamreborn/configData.nbt"
+hash = "3a6a8f17eab20e5f2021a2b9ffa48f8a97e56530a0ad7a979832905d2ee3e5d3"
+
+[[files]]
+file = "config/teamreborn/mainmenuscale/config.cfg"
+hash = "4f468c6224455fbeb7127e9524a674e3f9221f020ea6119c6149ba72795ec27c"
+
+[[files]]
+file = "config/teamreborn/reborncore/client.cfg"
+hash = "71943ec63f7cb34eed0ddc8c69fb076f1e2bcd51faaff93c51bfa024aed7e374"
+
+[[files]]
+file = "config/teamreborn/reborncore/misc.cfg"
+hash = "7396448e34ec8d17265dcd4820719748f10904ebd53add095b3eb68f4092cac7"
+
+[[files]]
+file = "config/teamreborn/reborncore/power.cfg"
+hash = "bdd2bac612b666480f8a546549238f53d3b069fe93238fd0abb8bf01c0238b19"
+
+[[files]]
+file = "config/teamreborn/reborncore/selected_energy.json"
+hash = "9a1954243a3851247769c8525d22faf6addfb36cd3fb347449b14c1e18a98214"
+
+[[files]]
+file = "config/teamreborn/reborncore/upgrades.cfg"
+hash = "15cb9cf9e02d6fde193b0fa8dd1e924f9fe752b370a76aebbc4a788e73410e54"
+
+[[files]]
+file = "config/teslacorelib.cfg"
+hash = "b7206f5790240af4b1eadc239c6297a62b2995ee363907162f25f309241adf85"
+
+[[files]]
+file = "config/theoneprobe.cfg"
+hash = "e058c1c41521a1c69842a1e37ec4d631db9da1a727d97d337c877e96f96ba8b2"
+
+[[files]]
+file = "config/twilightforest.cfg"
+hash = "f8d6d987c3deb2c6cf0df6d8ef62693117312f40f04eac0578d89c24e0709de3"
+
+[[files]]
+file = "config/unidict/IntegrationModule.cfg"
+hash = "e2ca5dfc1e7e8ea89cc0a7327fa9d3fcb9ef81bf391f25cf95dcef0cc204b954"
+
+[[files]]
+file = "config/unidict/ModConfigModule.cfg"
+hash = "6d617f6cba5fcac82f5e6e543f518d66c45de747a7f44d499e959e7cb1b3c49e"
+
+[[files]]
+file = "config/unidict/UniDict.cfg"
+hash = "3e2fb531bbdb4819c97055652d6923ae64e9ed37c22851f332e7e1e9f18b6a76"
+
+[[files]]
+file = "config/voicechat/category-volumes.properties"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
+
+[[files]]
+file = "config/voicechat/player-volumes.properties"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "88dcd1f37444e002f90a48da9e33849e7bd235c9045705f8e27a9ac8b40f926d"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "a7ece01c63eddd8b116b1ab8fb2fcdd7ce735bb25db9111d01a30bf0c256a23c"
+
+[[files]]
+file = "config/waila/theme/dark.json"
+hash = "cd2696aae34e17993d6eb737f7a1bc74d949058463bc304ae0ded14c5cac9f19"
+
+[[files]]
+file = "config/waila/theme/vanilla.json"
+hash = "b2aae1f2d5b272a9b533a6f13316aefe535173f379efc2ea48bd8fc327c7fa0b"
+
+[[files]]
+file = "config/waila/waila.cfg"
+hash = "cf0c2eca09a74bc33ee7ebdb158dcac857b6d0339365d05536bfa368729b39a0"
+
+[[files]]
+file = "config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_client.json"
+hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
+
+[[files]]
+file = "config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/xaero/minimap/profiles/default.cfg"
+hash = "ed109b78a6fd2620ab2a439f974d188180e1de64e93e4297f80398ee9ca892ec"
+
+[[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+
+[[files]]
+file = "config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "d0f079a8df083f6f60a0e0c1316a25fc841755a91bdcb2f86c66ead8e7d4d13d"
+
+[[files]]
+file = "config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/xaero/world-map/profiles/default.cfg"
+hash = "aaeea6b2f4468261cbd6c112e9a9e773a89979f2751e49b69a616d15fe995bb9"
+
+[[files]]
+file = "config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "41209eabc963b2eb1a06dff5ebed695193c9afb611992f0af9eb53481500ce2c"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/.index/custom-main-menu.pw.toml"
+hash = "e596ef9c62a6a064eac0024579c621335e8ef6b3598b01d760cfc641abd1963d"
+metafile = true
+
+[[files]]
+file = "mods/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
+hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
+
+[[files]]
+file = "mods/additional-pipes-for-buildcraft.pw.toml"
+hash = "aba65821765d7d5b96a0816c3831c9efa0aa97bde55246d196eb150d0afe26fe"
+metafile = true
+
+[[files]]
+file = "mods/advanced-solars-classic.pw.toml"
+hash = "f2e60ebcf7ada64446424304c1a0488df8332c2aa8df918688bdf2e8a26e4729"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "cd6822630c76c3a2a96a249ffbac746d57def930084c30dbdb656c0566e271fe"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ffbb4bb97f53e5d6f005887b6297acf4274bed2e8e88625fc2d1e61a416afb26"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c9711625615d000b33b2c8d2136cefb187933cdd2cfe798a6bcbc3d888cf051d"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
+metafile = true
+
+[[files]]
+file = "mods/biome-bundle.pw.toml"
+hash = "513f7fc21c24e3541eee8d330090928c9b01bcebbc42a4628aa81b71c28a2bb7"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft-fluxified.pw.toml"
+hash = "f7bcc277b7c5d71971300e70ed7cc445e741e094521bb3d2fb1880bcc8b9282a"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "ae1102797c17f21f72397fb6e66145c1d7427fa825e771e9c314ba66b8682f54"
+metafile = true
+
+[[files]]
+file = "mods/cable-flux.pw.toml"
+hash = "5acf0da55bb1a51438e40bfba55e861a0d4003ffa8efacdb3a079ea418158062"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "8c17516e87abd495f736194cb16ee4e3224564476db27e095755551f65265a63"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "8543599cc981cc25fa739c9efad2ffd6ddcbcd10b681e47875bf5e7f87a9262f"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "46dcc28562b736d102a6c71bfcefa4ea146b132f3effef5536c5e0e995a71496"
+metafile = true
+
+[[files]]
+file = "mods/chest-transporter.pw.toml"
+hash = "96c8e9dedce3abe3214a9aa6fd70649775f6453778fdd9468ef079f675976c73"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "a2e3b0d2d6a8aef09276fd1df1b308e20bed3fe695b2bf1043d927a7ffccf495"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "49d0ddb311fa9fe9b193996de176a92e0ab2b26b4030344ae80cff4584fdadc4"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "af02d1303bcea63f7db8fe253cd70f74347857fd0b26a58b3961b95bee3b0ffe"
+metafile = true
+
+[[files]]
+file = "mods/cofh-world.pw.toml"
+hash = "197949c14af1c110c380e62e1cbd735fcb46927a95e6b9d6bc8435646632870d"
+metafile = true
+
+[[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "ac423dbdf07ee4c91d05fdebfd3e0849ae9602925a39cac3dac0a35fd742c290"
+metafile = true
+
+[[files]]
+file = "mods/cqrepoured.pw.toml"
+hash = "565245d5260dafe9ef20f93f23094a1d78d8733d157dad5f68642a5db14e1ed2"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "8268a0441a5da4f2c0df7505f45db738426ab77a1d48024fa9d55d191949ca35"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
+metafile = true
+
+[[files]]
+file = "mods/custom-jukebox-discs.pw.toml"
+hash = "d7937ec6e9d938ce950d7efee1f1c31564c8480e508a428757f76e97e6593547"
+metafile = true
+
+[[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "a09edf92bd331270af9f88a11df2b12b7d2f1397c5a8e91d8438404df46e8d04"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "3f42217219862702749ed20b21ed7fbd3012d2037bd18d5637e58ecbdfa06025"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "fd17f18473a37ce3ae4391136c844b703fa09343fc7017f9da840e60b9c49232"
+metafile = true
+
+[[files]]
+file = "mods/energy-control.pw.toml"
+hash = "a4ddc6b79c5f95a5f02688f0760033131f4efd4d6217289c37c94139fdfae676"
+metafile = true
+
+[[files]]
+file = "mods/energy-converters.pw.toml"
+hash = "3fb33d0b22cb9f434fc033670798f41ffd5eb1d5cc0187b175ead7dfec445f63"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-legacy.pw.toml"
+hash = "6022e8c53eeece9a7df59db00ffb3424151c51d6d0fa819ef3e8c91f8b7303e7"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod-5-5-2.pw.toml"
+hash = "57a81047beb80155f0fa3807f8e9655f627ca251cc954f7bd19dc8dd9d74fcb8"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-legacy.pw.toml"
+hash = "ddc450a86b6a13ca49febb4248037e05f90281e04ced1b83ffef3630fc01a976"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4e87ea91ac584b6c91dbac23bd05db9be1a848e47dda3524224bb189f4fe5b10"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "157f6e6aa64ae6cf9da95be6b45dc54bf35c4e89e1c9f78866b1dc1821063b47"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "bc300f399e5ab40cc384f6c1247421cd01fd6aff35adebb05e86cb062a6808fb"
+metafile = true
+
+[[files]]
+file = "mods/hammer-lib.pw.toml"
+hash = "8b263c3b1b0f83ac1984a84c9be17e40e092cb072aed146d20efae2b7f191c06"
+metafile = true
+
+[[files]]
+file = "mods/hanfmod-1.12.2-2.3.3.jar"
+hash = "bd28e43099e81501a7b3d7644cd499fbabdc9a2370404c0a8067b33e5a679f51"
+
+[[files]]
+file = "mods/ic2-classic.pw.toml"
+hash = "7a5879c1dde201b780097334277b110199d5e42a277fc130954b1d3e9df324f3"
+metafile = true
+
+[[files]]
+file = "mods/ic2cuumatter.pw.toml"
+hash = "b96563d6f91c59c339b953565b37bed8b3a958ec7f02c87b2ceaec3e6afcd78c"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "d5b39f1cf1fe8ed235528aba745d1f1aab1ed52a88eee56c4397523dcfc4ba85"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks-remove-settings-button-config.pw.toml"
+hash = "d899fecc3767fccf62e106758daaa7f8f5c3cd68e12969890724a3aa3b7939d6"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
+metafile = true
+
+[[files]]
+file = "mods/iron-tanks.pw.toml"
+hash = "a311dda011af130c570bd6507e6a1c22f9b378dea42e31954dc0a828e26344e1"
+metafile = true
+
+[[files]]
+file = "mods/logistics-pipes.pw.toml"
+hash = "84ee5d1a56be5c98da27902ee0f8ac869c6e114098f8141e12d8607f0fae3153"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-scale.pw.toml"
+hash = "13777fed26eb184af913669784cf009209092c5f3359d7bf074a5318138fb3d7"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "aefeac48e7ee438c2b57b3ac0692b469ffa4ad874278a35fc200b3b4f37e54b3"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "282c64e789fbf9c7d13dad6d7f0a7d1e0a5ad3df34601f0a26220e2b0a52629f"
+metafile = true
+
+[[files]]
+file = "mods/morpheus.pw.toml"
+hash = "3800d2d04ee10b3455a7f8527672086440269ba7a5993f31f1b85edf886f787f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "30746e92b44351d3365fa5aa6e43b623476c91116fb8b9f88b7233339d3c9f43"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "332b4664f7873ecbf6476aa7d39cb872a88cc432cd0602373837eb466226e633"
+metafile = true
+
+[[files]]
+file = "mods/mrtjpcore.pw.toml"
+hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "784b7f17abe484d4db8088e65742d9e0ebdebc16132a71582c36ca50e5122f68"
+metafile = true
+
+[[files]]
+file = "mods/open-terrain-generator.pw.toml"
+hash = "7107bfba4a5b6548cde3700fbb88ca736f0aec3913025975515febdb4e0d7ad9"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "07d424d548178e08ebfa96074d8d3483fa4214050bcdecc4f7ab43d5570acb67"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-plus.pw.toml"
+hash = "89e160ef07b46e6d6bac8cc92e09bfe65f186c08f0a58af84ac3de00c84e4e0e"
+metafile = true
+
+[[files]]
+file = "mods/project-red-compat.pw.toml"
+hash = "9e26a0599000e5c66a5836ae043123524c492fa6b2e2274646692947acec224a"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "80a1afd5a26156aef0eeaedd9f19e881326bf40c087428b0d75240a63c33dd08"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "c025482d5ec4ffd3d6ce8eb6d6ca124249abaf0ee1d81b8d62b47092758a07b1"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "475a9a15b9a6e47ec1ad4722983a109046209c32e8d08f2fc2e4d21807c3a3bb"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "5fa32c1398a3cfaeae452768d7bb396e441b50300e4332fa7ddabab62dd835ba"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "15245f83ee8fdddade8e9172a821d24df3cb955ae3da98f3a5c3eaae9c43a34d"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
+metafile = true
+
+[[files]]
+file = "mods/ptrlib.pw.toml"
+hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
+metafile = true
+
+[[files]]
+file = "mods/reach-fix.pw.toml"
+hash = "262ff88b12b5752b5577ebdeaf94862ccd4a2fc354c2c89937e7241abb0875bb"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
+file = "mods/redstone-flux.pw.toml"
+hash = "c4730aa68206dba3e9fe24d60b107d914d202ba5e3f5842f06d3fa40ec05d06c"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "98185e416d24da0fa61981ad5e539a6ce987409ea70dfca55b91754449e01b6e"
+metafile = true
+
+[[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "5b23fff02027846cadc887ffe26fce12a4e20bdee2cc0c06732897a44f364357"
+metafile = true
+
+[[files]]
+file = "mods/shadowfacts-forgelin.pw.toml"
+hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "ea500953c3b4b9e989f0ea5a33b0ab03e86ee9798510129ba9ea91743e31869c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "05df8de2708c5156a8f29977df92e7e664494b814fc97e8804d84672e30d1d10"
+metafile = true
+
+[[files]]
+file = "mods/sledgehammer.pw.toml"
+hash = "1a150a9dcc2f012160f25e2fba14fdee2704a70a4b9d97dbcecaedfae68b8658"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ff5a7d6fe7c70f7db36e33ceefc6936b382a572c35c9f6efc21c4cccbaaea362"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "bcf1b0bbf07ec254e52c921ed9c652c2ed60e3eb9601afff240cfa9d0074fcc2"
+metafile = true
+
+[[files]]
+file = "mods/tesla-core-lib.pw.toml"
+hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "ccedb897162eeffc59668c11a684f66b5d73916b574f9904d7201eba33884904"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "79a7197981768e1d9b23b5eacf22b2ac776d6322c1a4b1eafabd8a1d9c5c1400"
+metafile = true
+
+[[files]]
+file = "mods/tipthescales.pw.toml"
+hash = "acbc0366bb6be6f40f17b345df3d16caf7f1fa4d469eb9f709fad140080fc234"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "39a0b5bf16444f41f926e0d144e3b8e8fcaf2edfde8bd757896a84aa340c3f6d"
+metafile = true
+
+[[files]]
+file = "mods/unidict.pw.toml"
+hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "8eeb8151d0d8b8045a128e89cd89239bac297bcddb3b8c10348b12d5256f8633"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
+metafile = true
+
+[[files]]
+file = "mods/wireless-redstone-cbe.pw.toml"
+hash = "c55632d9eb7ea0247cf236a49bb2d7063e8d25a546f83745560d398831e86108"
+metafile = true
+
+[[files]]
+file = "mods/xaerolib.pw.toml"
+hash = "2141dd13b833a72a2f3bbd554a416ed933f747dbe7b67d356ffa3276409f6d46"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "ec921057a2d53198a28523d1226c42b6245b080c3c059a27433e1157d0bea132"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a193955256b84e4ca255ec3919e03a353885d99ae4fbaf80f9c27cd989358b5c"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8f0bf0f5684d1d14bd812f230c722fde1a410b50f3f14b66a04d8225d2f8eaed"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/minecraft_logo.png"
+hash = "ba03a415633b0ea1bb629b76aaecee9113ad2d8d2e9699938a0872d1ff438ec4"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/panoramas/panorama_0.png"
+hash = "5e5998de6530fd722197f8c9f7d1517b31553e87b4e4f8478b9f0d3198b84196"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/panoramas/panorama_1.png"
+hash = "e5b82ef07e81c6d20483ed260a340deea4bb0089dc49625c9d99d5e223fbd6b4"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/panoramas/panorama_2.png"
+hash = "c81821a85659380e7714d95411386748d92d1d8b398a478c2230e16488f75450"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/panoramas/panorama_3.png"
+hash = "38d8c92da69b8488cea3921e06dd8eee12582412624cb64854bcbf81633759a8"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/panoramas/panorama_4.png"
+hash = "3657d9c3e3ddcadbe80ca209cf79c6927a49415694232b6aa9137b38a09a2ac7"
+
+[[files]]
+file = "resources/minecraft/textures/mainmenu/panoramas/panorama_5.png"
+hash = "a65c8ceaea3ded1158cdef49f774b5600859a06c3193941e98345af7f63cb0db"
+
+[[files]]
+file = "scripts/crafting.zs"
+hash = "9c5af68b9f65ed6afa73cd9c927b1b5333768babcb97fc3c0276d7daa9df45c8"
+
+[[files]]
+file = "servers.dat"
+hash = "eba4ee4ff85640f292ccbbd0123a45f5dc5f6ec84e851ebe26b5940c91f955d6"

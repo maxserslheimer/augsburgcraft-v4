@@ -1,0 +1,13 @@
+name = "Flan's Mod: Legacy"
+filename = "Flan's Mod-1.12.2-5.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "817fd9cde420c7c65414b66fc5167c6b6e9dd068"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3278090
+project-id = 317310

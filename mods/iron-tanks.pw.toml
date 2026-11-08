@@ -1,0 +1,13 @@
+name = "Iron Tanks"
+filename = "irontanks-2.4.0+mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2723494366e78c8a6ce9b5837846eaf3bd5b6da4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8504206
+project-id = 236226

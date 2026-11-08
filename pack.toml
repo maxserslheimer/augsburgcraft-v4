@@ -1,0 +1,13 @@
+name = "AugsburgCraft v4"
+author = "M"
+version = "4.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0f3067562d604c331121f71aaf193310468644e54527be43a29a80c727e4ed2f"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

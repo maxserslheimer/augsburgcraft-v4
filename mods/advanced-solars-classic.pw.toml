@@ -1,0 +1,13 @@
+name = "Advanced Solars Classic"
+filename = "advancedsolars-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3713c0d59a56bba3561645e4bd3c0c7686739c55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4050834
+project-id = 314835

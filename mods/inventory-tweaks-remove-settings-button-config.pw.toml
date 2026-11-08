@@ -1,0 +1,13 @@
+name = "Inventory Tweaks Remove Settings Button Config"
+filename = "InventoryTweaks-1.64+dev.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15ba6f1b282f8f78522a2cc79efb4367bad8b0c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6793698
+project-id = 1310927
