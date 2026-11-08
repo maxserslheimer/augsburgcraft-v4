@@ -2817,6 +2817,10 @@ file = "mods/1.12.2/Decocraft-2.6.3.7_1.12.2.jar"
 hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
 
 [[files]]
+file = "mods/1.12.2/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
+hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
+
+[[files]]
 file = "mods/1.12.2/OTG-Core.jar"
 hash = "0ab1007b20bacd6c951224dca51f469eb92ca71f351b3fa399d2984445733e99"
 
@@ -2825,11 +2829,7 @@ file = "mods/1.12.2/PTRLib-1.0.5.jar"
 hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 
 [[files]]
-file = "mods/AUX Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
-hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
-
-[[files]]
-file = "mods/AUX hanfmod-1.12.2-2.3.3.jar"
+file = "mods/1.12.2/hanfmod-1.12.2-2.3.3.jar"
 hash = "bd28e43099e81501a7b3d7644cd499fbabdc9a2370404c0a8067b33e5a679f51"
 
 [[files]]
@@ -2960,11 +2960,6 @@ metafile = true
 [[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
-metafile = true
-
-[[files]]
-file = "mods/custom-jukebox-discs.pw.toml"
-hash = "d7937ec6e9d938ce950d7efee1f1c31564c8480e508a428757f76e97e6593547"
 metafile = true
 
 [[files]]
