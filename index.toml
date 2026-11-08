@@ -2957,11 +2957,6 @@ hash = "35a97513c02a3a99af47d03910e461f240d935963edea0faa72631d3d33c7a42"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "3f42217219862702749ed20b21ed7fbd3012d2037bd18d5637e58ecbdfa06025"
 metafile = true
@@ -3154,11 +3149,6 @@ metafile = true
 [[files]]
 file = "mods/project-red-integration.pw.toml"
 hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
-metafile = true
-
-[[files]]
-file = "mods/ptrlib.pw.toml"
-hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
 metafile = true
 
 [[files]]
