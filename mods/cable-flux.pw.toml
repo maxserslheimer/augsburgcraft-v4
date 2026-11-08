@@ -1,0 +1,13 @@
+name = "Cable Flux"
+filename = "CableFlux-1.12.2-12.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1acb1bfb2acc4d612bc9cb3f0bcb6f8612cee65b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3962364
+project-id = 303824

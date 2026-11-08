@@ -1,0 +1,13 @@
+name = "Biome Bundle"
+filename = "Biome_Bundle-1.12.2-v6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23cb66b060b7f665fbf2f5c84d0fd4d3c5a3fc6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2505277
+project-id = 241542
