@@ -3278,6 +3278,11 @@ hash = "c55632d9eb7ea0247cf236a49bb2d7063e8d25a546f83745560d398831e86108"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
+metafile = true
+
+[[files]]
 file = "mods/xaerolib.pw.toml"
 hash = "08299051acc28cf20ab30466acdc68653872276bbc4d069e84d1715f566942d0"
 metafile = true
@@ -3291,6 +3296,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1181b8fc69efd05139a83490470bc9165faf02e8affc8a903601bde175dc25f7"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8950ede773d1b9cb40c7cbcb3d778465f60e4ac7e011205d0322271431716ecc"
 
 [[files]]
 file = "resources/minecraft/textures/mainmenu/minecraft_logo.png"
