@@ -2813,20 +2813,12 @@ file = "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar"
 hash = "54c063e72abb6af999d80b94a2f1c9593c6ef0bb7769f3410d2a49f47c1ba3b0"
 
 [[files]]
-file = "mods/1.12.2/Decocraft-2.6.3.7_1.12.2.jar"
-hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
-
-[[files]]
 file = "mods/1.12.2/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
 hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
 
 [[files]]
 file = "mods/1.12.2/OTG-Core.jar"
 hash = "0ab1007b20bacd6c951224dca51f469eb92ca71f351b3fa399d2984445733e99"
-
-[[files]]
-file = "mods/1.12.2/PTRLib-1.0.5.jar"
-hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 
 [[files]]
 file = "mods/1.12.2/hanfmod-1.12.2-2.3.3.jar"
@@ -2865,11 +2857,6 @@ metafile = true
 [[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
-metafile = true
-
-[[files]]
-file = "mods/better-records-fixed.pw.toml"
-hash = "18ec60e740e166585927dc544255b2da90413c8c61de44d0848bb0c63f474a82"
 metafile = true
 
 [[files]]
@@ -2963,8 +2950,18 @@ hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
 
 [[files]]
+file = "mods/custom-jukebox-discs.pw.toml"
+hash = "d7937ec6e9d938ce950d7efee1f1c31564c8480e508a428757f76e97e6593547"
+metafile = true
+
+[[files]]
 file = "mods/custom-main-menu.pw.toml"
 hash = "35a97513c02a3a99af47d03910e461f240d935963edea0faa72631d3d33c7a42"
+metafile = true
+
+[[files]]
+file = "mods/decocraft.pw.toml"
+hash = "9bfe94e3bfc1a392eca371400b4dc82cd24d5bd9c05fa137116690b3e3c1a639"
 metafile = true
 
 [[files]]
@@ -3160,6 +3157,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-integration.pw.toml"
 hash = "bdd671787a660a9442327d14f5efbb63239a78dac60f88afcf93063d97bbd364"
+metafile = true
+
+[[files]]
+file = "mods/ptrlib.pw.toml"
+hash = "b4a05a52e66b8801b103553129b214da4f36a1e3f03b2628f72f3804a6bc1445"
 metafile = true
 
 [[files]]
