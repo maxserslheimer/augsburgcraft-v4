@@ -2813,12 +2813,20 @@ file = "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar"
 hash = "54c063e72abb6af999d80b94a2f1c9593c6ef0bb7769f3410d2a49f47c1ba3b0"
 
 [[files]]
+file = "mods/1.12.2/Decocraft-2.6.3.7_1.12.2.jar"
+hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
+
+[[files]]
 file = "mods/1.12.2/Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
-hash = "98fdd441a8e897523440fc45a7f84204d3f74495d67c2459fb117a8cd1990ed3"
+hash = "607caaa5973f1a692dcf18cf91059d49e5986b94c4c338c80b23295a734b9770"
 
 [[files]]
 file = "mods/1.12.2/OTG-Core.jar"
 hash = "0ab1007b20bacd6c951224dca51f469eb92ca71f351b3fa399d2984445733e99"
+
+[[files]]
+file = "mods/1.12.2/PTRLib-1.0.5.jar"
+hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 
 [[files]]
 file = "mods/1.12.2/hanfmod-1.12.2-2.3.3.jar"
