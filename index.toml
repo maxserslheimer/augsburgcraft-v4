@@ -2178,11 +2178,11 @@ hash = "5cba1d01fc56efc4c18201f4569ef3970492f8b006a3874b6ed170b8e07bcfa5"
 
 [[files]]
 file = "config/car/car.json"
-hash = "43f8a8d6051caca6bee2447fb90109fd52d01c0199e728fd0e9a01e746b4202b"
+hash = "f7c9c73b5ad80283976ed6524e1b5020af12b34565e7b98993e1679415099e89"
 
 [[files]]
 file = "config/car/fuel_station.json"
-hash = "bd4ad43a33bb579e5197120d5f677a93b5a31bc7bfcac3f2c232927677cb884a"
+hash = "4a6310c36d5b712c2341d1771181a97a46c094f00505dc9f8f9ca02d42246e71"
 
 [[files]]
 file = "config/car/generator.json"
@@ -2250,7 +2250,7 @@ hash = "1701b932f99f5653e6b5986137e21bfbe7231f783892606ee8ee043427156748"
 
 [[files]]
 file = "config/cofh/thermalexpansion/common.cfg"
-hash = "3cfcda628799af896584e6b63ce9b7975fcaa51fbf0810250140017b695f38ee"
+hash = "313487cbeeeb7c63c914e5ae9064d95c58f4a7865a1649436f7039194913371f"
 
 [[files]]
 file = "config/cofh/thermalexpansion/florbs.cfg"
@@ -3331,4 +3331,4 @@ hash = "a65c8ceaea3ded1158cdef49f774b5600859a06c3193941e98345af7f63cb0db"
 
 [[files]]
 file = "scripts/crafting.zs"
-hash = "9c5af68b9f65ed6afa73cd9c927b1b5333768babcb97fc3c0276d7daa9df45c8"
+hash = "187db5765d9a7952374943b110d7e873dbe42e9df0036eaf14b68560df91474b"

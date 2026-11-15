@@ -1,4 +1,6 @@
-{"valid_fluids": [{
- "efficiency": 1,
- "fluid": "bio_diesel"
-}]}
+{"valid_fluids": [
+  {"efficiency": 1, "fluid": "bio_diesel"},
+  {"efficiency": 1, "fluid": "oil_distilled"},
+  {"efficiency": 1, "fluid": "fuel_light"},
+  {"efficiency": 1, "fluid": "fuel_mixed_light"}
+]}

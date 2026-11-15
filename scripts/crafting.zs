@@ -1,4 +1,22 @@
 
+//Entferne geotermal
+
+recipes.remove(<ic2:blockgenerator:1>);
+recipes.remove(<ic2:blockgenerator:8>);
+
+// if range addons
+
+recipes.remove(<industrialforegoing:range_addon:3>);
+recipes.remove(<industrialforegoing:range_addon:4>);
+recipes.remove(<industrialforegoing:range_addon:5>);
+recipes.remove(<industrialforegoing:range_addon:6>);
+recipes.remove(<industrialforegoing:range_addon:7>);
+recipes.remove(<industrialforegoing:range_addon:8>);
+recipes.remove(<industrialforegoing:range_addon:9>);
+recipes.remove(<industrialforegoing:range_addon:10>);
+recipes.remove(<industrialforegoing:range_addon:11>);
+
+
 // LV CONVERTER
 recipes.addShaped("converteric2_1", <energyconverters:energy_producer_eu>, [
     [<minecraft:gold_ingot>, null, <minecraft:gold_ingot>], 
