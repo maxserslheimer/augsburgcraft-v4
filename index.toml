@@ -3299,7 +3299,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7e5d4ac420490341f5ee0295393b05a425022e9e478138a26539614d5da2008a"
+hash = "81b150d655b7b481af4d043f0d875f71cc48491325eb973414d9c379f15a1052"
 
 [[files]]
 file = "resources/minecraft/textures/mainmenu/minecraft_logo.png"
