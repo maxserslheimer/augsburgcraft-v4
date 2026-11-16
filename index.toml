@@ -2609,6 +2609,14 @@ file = "config/personalcars.cfg"
 hash = "f193a111543340b5de8797bac9cee1a754cfcbd72e2b77bc74ad3f9e51b31326"
 
 [[files]]
+file = "config/playerrevive-client.json"
+hash = "4f78aa29e7bd3762959b41893cb22d261f5b0540467943a8d0ff770001887e1a"
+
+[[files]]
+file = "config/playerrevive.json"
+hash = "a0eb9f50d87b0152afd444398b811af56170bedfe7cee69b2f4656c975cbb9e9"
+
+[[files]]
 file = "config/polymorph_plus_client.json"
 hash = "c2807871eba913ec19ee7d34765a2a57fa5b40ece2c3a8677c84330acaa89f08"
 
@@ -2953,6 +2961,11 @@ hash = "8268a0441a5da4f2c0df7505f45db738426ab77a1d48024fa9d55d191949ca35"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
+metafile = true
+
+[[files]]
 file = "mods/ctm.pw.toml"
 hash = "430820ab4fc97024a7c5c188555c57e6fa22f33fe3d5f98d2a75254a0bd07633"
 metafile = true
@@ -3120,6 +3133,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "f4f48c5173082fbb0b804204872593248fe433dcb52bab8222610946b839953d"
 metafile = true
 
 [[files]]
